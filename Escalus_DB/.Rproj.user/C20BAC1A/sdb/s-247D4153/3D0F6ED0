@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library('dplyr')\n\nDB <- read.csv(\"jb.txt\")\n\nnames(DB)\n\n#list <- select(DB, Judge.Identification.Number, Judge.First.Name, Judge.Last.Name, Birth.year, Place.of.Birth..City., Place.of.Birth..State., Court.Name, Court.Type, President.name, Party.Affiliation.of.President, Renominating.President.name, Party.Affiliation.of.Renominating.President)\n\n# Relevant Features\nfeatures <- as.character(read.csv(\"features.csv\", header=F)$V1)\nfeatures[1][1] <- 'Judge.Identification.Number'\n\njudges <- select(DB, one_of(features))\njudges <- arrange(judges, Name.of.School)\n\nhead(judges)\n\n\nschool_names <- as.factor(judges$Name.of.School)\nlevels(school_names) <- 1:length(levels(school_names))\nschool_nums <- as.numeric(levels(school_names))",
+    "created" : 1482355196620.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "43252567",
+    "id" : "3D0F6ED0",
+    "lastKnownWriteTime" : 1482365596,
+    "last_content_update" : -2147483648,
+    "path" : "~/GitHub/Escalus/Escalus_DB/database.R",
+    "project_path" : "database.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
