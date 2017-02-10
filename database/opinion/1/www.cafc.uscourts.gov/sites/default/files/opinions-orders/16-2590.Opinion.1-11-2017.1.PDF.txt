@@ -1,0 +1,204 @@
+ 
+
+NOTE:  This disposition is nonprecedential. 
+
+United States Court of Appeals 
+
+for the Federal Circuit 
+
+______________________ 
+
+JULIETTE MOSTELLER, 
+
+Petitioner 
+
+JULIETTE MOSTELLER, Glen Burnie, MD, pro se. 
+ 
+KATHERINE  MICHELLE  SMITH,  Office  of  the  General 
+Counsel,  Merit  Systems  Protection  Board,  Washington, 
+DC,  for  respondent.  Also  represented  by  BRYAN  G. 
+POLISUK. 
+
+______________________ 
+
+Before REYNA, HUGHES, and STOLL, Circuit Judges. 
+
+PER CURIAM. 
+
+MERIT SYSTEMS PROTECTION BOARD, 
+
+Respondent 
+
+______________________ 
+
+2016-2590 
+
+______________________ 
+
+______________________ 
+
+Decided:  January 17, 2017 
+
+______________________ 
+
+Petition  for  review  of  the  Merit  Systems  Protection 
+
+Board in No. DC-0752-16-0108-I-1. 
+
+ 
+v. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+ 
+
+  MOSTELLER v. MSPB 
+
+Ms.  Mosteller  appeals  a  final  decision  of  the  Merit 
+Systems Protection Board, arguing that the Board incor-
+rectly dismissed for lack of jurisdiction her appeal of the 
+allegedly  improper  suspension  of  her  employment  with 
+the  Department  of  Veterans  Affairs  (VA).  The  Board 
+correctly determined that Ms. Mosteller failed to make a 
+non-frivolous allegation that she was suspended for more 
+than fourteen days.  Therefore, we affirm.  
+
+BACKGROUND 
+
+Ms. Mosteller worked for the VA as a Program Ana-
+lyst.  The VA suspended Ms. Mosteller for fourteen days, 
+from  March  22  to  April  4,  2015.    Ms.  Mosteller  was  not 
+allowed to return to work on her next scheduled work day.  
+Instead,  on  April  6,  2015,  Ms.  Mosteller  received  notice 
+from  the  VA  she  was  being  placed  on  “authorized  ab-
+sence.”  On the same day, the VA provided Ms. Mosteller 
+with  a  notice  of  proposed  removal.    Ms.  Mosteller  re-
+mained  on  authorized  absence  until  the  VA  terminated 
+her employment. 
+
+Ms.  Mosteller  was  not  paid  during  her  fourteen-day 
+suspension.  Initially, she was not paid during the period 
+of authorized absence either.  Ms. Mosteller alleges that 
+on May 15, 2015, she notified the agency that she was not 
+being  paid.   It is  undisputed  that  on June  19, 2015,  the 
+VA  retroactively  paid  Ms.  Mosteller  for  the  period  of 
+authorized absence lasting from April 5 to May 22, 2015.   
+Ms.  Mosteller  appealed her  removal  to  the  Board  on 
+June 15, 2015.  In doing so, she filled out an intake form 
+that asked her to indicate what kind of personnel action 
+she was appealing.  She checked the box indicating that 
+she was appealing her removal, but she did not check the 
+box  indicating  that  she  was  appealing  any  suspension.  
+S.A.  26.    The  June 15  intake  form  does  not  contain  any 
+other  information  suggesting  that  she  was  appealing 
+suspension.  S.A. 28.  On October 28, 2015—after the VA’s 
+June  19  retroactive  payment—Ms.  Mosteller  filed  a 
+
+MOSTELLER v. MSPB 
+
+3 
+
+prehearing submission alleging for the first time that the 
+VA  constructively  suspended  her  for  more  than  thirty 
+days  without  pay  prior  to  terminating  her  employment.  
+S.A. 51.  
+
+The  Administrative  Judge  (AJ)  docketed  a  separate 
+appeal  to  address  her  suspension  claim.   A  third  appeal 
+was docketed to address Ms. Mosteller’s claims of retalia-
+tion  for  whistleblowing  and  for  protected  whistleblower 
+activity.   
+
+With  respect  to  the  suspension  claim,  the  AJ  issued 
+an  order  to  show  cause  that  required  Ms.  Mosteller  to 
+plead evidence sufficient to establish the Board’s jurisdic-
+tion  over  her  claim.    In  her  submission,  Ms.  Mosteller 
+apparently  alleged  that  she  was  only  suspended  for 
+fourteen days.  Recognizing that the Board generally only 
+has  jurisdiction  over  suspensions  without  pay  that  last 
+longer than fourteen days, the AJ dismissed Ms. Mostel-
+ler’s suspension claim for lack of jurisdiction.  In its order, 
+the AJ also noted that Ms. Mosteller failed to refute the 
+Agency’s  evidence  proving  that  it  retroactively  paid  her 
+for the time on authorized absence.   
+
+The  full  Board  affirmed  the  AJ’s  decision  that 
+Ms. Mosteller failed to make a non-frivolous allegation of 
+jurisdiction  over  a  suspension  for  more  than  fourteen 
+days.  In doing so, the Board agreed with the AJ’s finding 
+that Ms. Mosteller “failed to refute the agency’s evidence 
+proving that she received retroactive pay.”  S.A. 14.   
+
+DISCUSSION 
+
+Whether the Board has jurisdiction over a particular 
+appeal  is  a  question  of  law  that  this  court  reviews  de 
+novo.  Bolton v. Merit. Sys. Prot. Bd., 154 F.3d 1313, 1316 
+(Fed. Cir. 1998).  The petitioner bears the burden to show 
+that  the  Board  has  jurisdiction  over  a  case.    Prewitt  v. 
+Merit. Sys. Prot. Bd., 133 F.3d 885, 886 (Fed. Cir. 1998).  
+If a petitioner makes a non-frivolous allegation of Board 
+
+4 
+
+ 
+
+  MOSTELLER v. MSPB 
+
+jurisdiction,  she  is  entitled  to  a  hearing  on  the  jurisdic-
+tional  question.    Garcia  v.  Dep’t  of  Homeland  Sec.,  437 
+F.3d  1322,  1344  (Fed.  Cir.  2006)  (en  banc).    A  non-
+frivolous  allegation  is  an  assertion  that,  if  proven,  could 
+establish the matter at issue.  5 C.F.R. § 1201.4(s).   
+
+The Board generally has jurisdiction to review an ap-
+peal from a suspension of more than 14 days, not a sus-
+pension  of  fourteen  days  or  less.    5  U.S.C.  §  7512.  
+Suspension is defined as “the placing of an employee, for 
+disciplinary reasons, in a temporary status without duties 
+and pay.”  5 U.S.C. § 7501(2).   
+
+The Board’s jurisdiction is determined by the nature 
+of the agency’s action at the time an appeal is filed with 
+the Board.  Holleman v. Merit Sys. Prot. Bd., 929 F. App’x. 
+942,  946  (Fed.  Cir.  2015)  (citing  Fernandez  v.  Dep’t  of 
+Justice,  105  M.S.P.R.  443,  446  (2007)).    Ms.  Mosteller 
+appealed her suspension when she first raised the issue in 
+her prehearing submission on October 28, 2015, not when 
+she appealed her removal on June 15, 2015.  As of October 
+28, 2015, it is undisputed that the VA had already retro-
+actively  paid  Ms.  Mosteller  for  the  period  of  authorized 
+absence.  Therefore, the period of authorized absence was 
+paid  and  does  not  fall  within  the  statutory  definition  of 
+suspension.  Accordingly, the period of authorized absence 
+cannot be joined with the initial fourteen-day suspension 
+to create a suspension period of more than fourteen days 
+for jurisdictional purposes.   
+
+The Board correctly dismissed Ms. Mosteller’s appeal 
+because she has not made a non-frivolous allegation that, 
+as of October 28, 2015, she had been suspended for more 
+than fourteen days.  Therefore, we affirm.  
+
+AFFIRMED 
+
+COSTS  
+
+Each party to bear its own costs.   
+
+

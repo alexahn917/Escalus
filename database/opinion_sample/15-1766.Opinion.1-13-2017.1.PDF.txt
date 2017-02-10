@@ -1,0 +1,1471 @@
+NOTE:  This disposition is nonprecedential. 
+
+United States Court of Appeals 
+
+for the Federal Circuit 
+
+______________________ 
+
+WI-LAN USA, INC., WI-LAN, INC., 
+
+Plaintiffs-Appellants 
+
+ERICSSON, INC., TELEFONAKTIEBOLAGET LM 
+
+ 
+v. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ERICSSON, 
+
+Defendants-Cross-Appellants 
+
+______________________ 
+
+2015-1766, -1794 
+
+______________________ 
+
+______________________ 
+
+Decided:  January 17, 2017 
+
+______________________ 
+
+Appeals from the United States District Court for the 
+Southern  District  of  Florida  in  No.  1:12-cv-23569-DMM, 
+Judge Donald M. Middlebrooks. 
+
+MATTHEW  D.  POWERS,  Tensegrity  Law  Group,  LLP, 
+Redwood City, CA, argued for plaintiffs-appellants.  Also 
+represented by  AZRA  HADZIMEHMEDOVIC,  AARON  M. 
+NATHAN, PAUL EHRLICH, LITAL LEICHTAG-FUKS, YI CHEN. 
+
+ 
+PAUL D. CLEMENT, Kirkland & Ellis LLP, Washington, 
+DC,  argued  for  defendants-cross-appellants.  Also  repre-
+sented  by  GEORGE  W.  HICKS,  JR.,  EDMUND  GERARD 
+LACOUR,  JR.,  CHRISTOPHER  GEORGE  MICHEL;  JOSHUA  C. 
+
+ 
+2 
+
+                                         WI-LAN USA, INC. v. ERICSSON, INC. 
+
+KRUMHOLZ, JACOB KEVIN BARON, Holland & Knight, LLP, 
+Boston, MA. 
+
+______________________ 
+
+ 
+
+Before MOORE, O’MALLEY, and WALLACH, Circuit Judges. 
+Opinion for the court filed by Circuit Judge WALLACH. 
+
+Concurring in part and dissenting in part opinion filed by 
+
+Circuit Judge O’MALLEY. 
+
+WALLACH, Circuit Judge. 
+
+The  instant  dispute  returns  to  us  a  second  time  fol-
+lowing additional district court proceedings.  Initially, Wi-
+LAN  USA,  Inc.  and  Wi-LAN,  Inc.  (together,  “Wi-LAN”) 
+sued Ericsson, Inc. and Telefonaktiebolaget LM Ericsson 
+(together,  “Ericsson”)  in  the  U.S.  District  Court  for  the 
+Southern  District  of  Florida  (“District  Court”)  alleging 
+infringement  of  various  claims  of  U.S.  Patent  Nos. 
+8,027,298  (“the  ’298  patent”),  8,249,014  (“the  ’014  pa-
+tent”), and 8,229,437 (“the ’437 patent”) (collectively, “the 
+Patents-in-Suit”).    Ericsson  argued  that  Wi-LAN  was 
+precluded  from  asserting  infringement  and  moved  for 
+summary judgment based on the Most Favored Licensee 
+Provision  (“MFL  Provision”)  in  the  Patent  and  Conflict 
+Resolution  Agreement  (“PCRA”)  between  Wi-LAN  and 
+Ericsson.    The  District  Court  determined  on  summary 
+judgment  that  the  MFL  Provision  was  triggered,  that 
+Ericsson was entitled to a license, and that the claims of 
+infringement were moot.  On appeal, we determined that 
+the  “MFL  Provision  only  applies  to  Wi-LAN’s  patents 
+owned or controlled as of the effective date of the PCRA, 
+which the [Patents-in-Suit] . . . were not.”  Wi-LAN USA, 
+Inc.  v.  Ericsson,  Inc.,  574  F.  App’x  931,  940  (Fed.  Cir. 
+2014).    Thus,  because  “Ericsson’s  rights  under  the  MFL 
+Provision  were  not  triggered,”  we  reversed  the  District 
+Court’s  judgment  and  remanded  the  case  for  further 
+proceedings.  Id.   
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+3 
+
+On remand, the District Court construed claim terms 
+in  the  Patents-in-Suit.    See  Wi-LAN  USA,  Inc.  v.  Tele-
+fonaktiebolaget TM Ericsson, No. 12-cv-23569-DMM, 2015 
+WL 6673742, at *3–13 (S.D. Fla. Jan. 13, 2015).  Ericsson 
+then moved for summary judgment of non-infringement of 
+various claims (“the Asserted Claims”)1 of the ’298 patent 
+and  the  ’014  patent  (together,  “the  Bandwidth  Patents”) 
+and for summary judgment of invalidity of claims 8 and 
+18  of  the  ’437  patent.    Ericsson  also  argued  the  MFL 
+Provision  applied  despite  this  court’s  previous  decision.  
+The District Court granted Ericsson’s Motion in part and 
+entered summary judgment that (1) claims 8 and 18 of the 
+’437 patent were invalid as anticipated and (2) Ericsson’s 
+accused products did not directly infringe the Bandwidth 
+Patents.  J.A. 12–32.  The District Court found the MFL 
+Provision  did  not apply  to  the  Patents-in-Suit.    J.A.  11–
+12, 32.  
+
+Wi-LAN appeals the District Court’s decision granting 
+summary  judgment  of  invalidity  and  non-infringement.  
+Ericsson  cross-appeals  the  District  Court’s  decision  that 
+the MFL Provision does not apply to the Patents-in-Suit.  
+We  have  jurisdiction  pursuant  to  28  U.S.C.  § 1295(a)(1) 
+(2012).  We vacate-in-part, affirm-in-part, and remand for 
+further proceedings consistent with this opinion.   
+
+BACKGROUND 
+
+Before  addressing  the  merits  of  the  parties’  argu-
+ments, we provide a brief summary of the Patents-in-Suit.  
+We  divide  our  discussion  of  the  Patents-in-Suit  into  two 
+parts based on their subject matter. 
+
+                                            
+1  The Asserted Claims include claims 1–2 and 4 of 
+the ’298 patent and claims 1, 4, and 6 of the ’014 patent.   
+
+ 
+4 
+
+                                         WI-LAN USA, INC. v. ERICSSON, INC. 
+
+I. The Bandwidth Patents 
+
+The  Bandwidth  Patents  are  entitled  “Methods  and 
+Systems for Transmission of Multiple Modulated Signals 
+Over  Wireless  Networks”  and  disclose  “[a]  method  and 
+apparatus  for  requesting  and  allocating  bandwidth  in  a 
+broadband  wireless  communication  system,”  whereby  “a 
+combination of bandwidth allocation techniques” are used 
+to  efficiently  allocate  physical  resources.    ’298  patent, 
+Abstract.2   
+
+“The broadband wireless communication system facil-
+itates two-way communication between a plurality of base 
+stations  and  a  plurality  of  fixed  subscriber  stations  or 
+Customer Premises Equipment [(‘CPE’)].”  Id. col. 1 ll. 62–
+65.    The  broadband  wireless  communication  system 
+“includes  a  plurality  of  cells . . . .    Each  cell . . . provides 
+wireless  connectivity  between  the  cell’s  base  sta-
+tion . . . and  a  plurality  of . . . [CPEs]  positioned  at  fixed 
+customer  sites . . . throughout  the  coverage  area  of  the 
+cell . . . .”  Id. col. 2 ll. 2–8.  The system is an on-demand 
+system where CPEs “request bandwidth allocations from 
+their respective base stations . . . based upon the type and 
+
+                                            
+2  Because  the  ’014  patent  is  a  continuation  of  the 
+’298  patent,  the  Bandwidth  Patents  share  a  common 
+specification.    A  continuation  patent  application  is  “an 
+application  filed  subsequently  to  another  application, 
+while the prior application is pending, disclosing all or a 
+substantial part of the subject-matter of the prior applica-
+tion  and  containing  claims  to  subject-matter  common  to 
+both  applications,  both  applications  being  filed  by  the 
+same inventor or his legal representative.”  In re Febrey, 
+135 F.2d 751, 757 (CCPA 1943) (internal quotation marks 
+and citation omitted).  For ease of reference, discussion of 
+the  Bandwidth  Patents  will  refer  to  the  ’298  patent’s 
+specification.   
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+5 
+
+quality of services requested by the customers served by 
+the CPEs.”  Id. col. 2 ll. 16–19.  “Base stations do not have 
+a priori information regarding the bandwidth or quality of 
+services  that  a  selected  CPE  will  require  at  any  given 
+time.”  Id. col. 2 ll. 39–42 (italics added).  Thus, “[t]he type 
+and  quality  of  services  available  to  the  customers  are 
+variable and selectable.”  Id. col. 2 ll. 20–21.  The Band-
+width  Patents  “reduce[]  the  amount  of  bandwidth  that 
+must  be  set  aside  for  these  bandwidth  allocation  re-
+quests.”  Id. col. 9 ll. 38–40.   
+
+II. The ’437 Patent 
+
+Entitled  “Pre-Allocated  Random  Access  Identifiers,” 
+the ’437 patent generally discloses “[s]ytems and methods 
+of pre-allocating identifiers to wireless devices for use in 
+requesting resources over a random access channel . . . .”  
+’437 patent, Abstract.  The ’437 patent provides a method 
+for “[a] mobile subscriber station[, e.g., cellular telephone, 
+to]  transition  from  a  coverage  area  supported  by  a  first 
+base  station  to  a  coverage  area  supported  by  a  second 
+base station.”  Id. col. 20 ll. 1–3.  The “communication link 
+from the subscriber station is handed over from the first 
+or  serving  base  station  to  the  second  base  station . . . .”  
+Id. col. 20 ll. 4–6.   
+
+“The  use  of  pre-allocated  codes,”  i.e.,  random  access 
+identifiers,  as  taught  by  the  ’437  patent,  “avoids  the 
+collision probability[, e.g., dropped calls,] associated with 
+random  subscriber  selected  access  codes . . . .”    Id.  col.  2 
+ll. 64–66.  “The base station . . . pre-allocates one or more 
+codes  to  registered  subscriber  stations”  in  its  coverage 
+area, and these base stations “track[] the code allocation 
+such that each of the allocatable codes are allocated to at 
+most one subscriber station at a time.”  Id. col. 6 ll. 20–21, 
+22–24.  The pre-allocated codes are then released by the 
+subscriber  station  “when  it  de-registers  with  the  base 
+station” and leaves the coverage area.  Id. col. 6 l. 26.   
+
+ 
+6 
+
+                                         WI-LAN USA, INC. v. ERICSSON, INC. 
+
+DISCUSSION 
+
+issues  of  material 
+
+Wi-LAN  argues  that  (1) genuine  issues  of  material 
+fact precluded invalidity summary judgment for the ’437 
+patent based on anticipation; (2) the District Court erred 
+in construing “bandwidth” in the Bandwidth Patents; and 
+(3) genuine 
+fact  precluded  non-
+infringement  summary  judgment  for  the  Bandwidth 
+Patents.  Appellants’ Br. 22–60.  Ericsson argues on cross-
+appeal that the District Court erred in finding as a matter 
+of  law  that  the  PCRA’s  MFL  Provision  was  triggered  in 
+this case.  Cross-Appellants’ Br. 59–69.  We address these 
+arguments in turn. 
+
+I. Standard of Review 
+
+We review the grant of summary judgment under the 
+law of the regional circuit in which the district court sits.  
+Classen Immunotherapies, Inc. v. Elan Pharm., Inc., 786 
+F.3d  892,  896  (Fed.  Cir.  2015).    The  Eleventh  Circuit 
+reviews a district court’s grant of summary judgment de 
+novo.    Ellis  v.  England,  432  F.3d  1321,  1325  (11th  Cir. 
+2005).  Summary judgment is proper only “if the movant 
+shows that there is no genuine dispute as to any material 
+fact and the movant is entitled to judgment as a matter of 
+law.”  Fed. R. Civ. P. 56(a); Celotex Corp. v. Catrett, 477 
+U.S.  317,  322–23  (1986).    A  genuine  dispute  of  material 
+fact  exists  when  “the  evidence  is  such  that  a  reasonable 
+jury  could  return  a  verdict  for  the  nonmoving  party.”  
+Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986).  
+In assessing whether summary judgment is appropriate, 
+we  “must  view  all  evidence  and  make  all  reasonable 
+inferences in favor of the party opposing summary judg-
+ment.”    Haves  v.  City  of  Miami,  52  F.3d  918,  921  (11th 
+Cir. 1995) (citation omitted). 
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+7 
+
+II. Wi-LAN’s Appeal 
+
+Wi-LAN’s  arguments  concern  three  separate  aspects 
+of the District Court’s decision under review.  We address 
+them in turn. 
+
+A. Anticipation of the ’437 Patent 
+
+Wi-LAN argues that the District Court erred in grant-
+ing  summary  judgment  of  invalidity  for  the  ’437  patent 
+based  on anticipation  because  there  remained  a genuine 
+dispute  over  material  facts  that  the  District  Court  im-
+properly decided.  See Appellants’ Br. 24–44.  We find the 
+District Court erred in granting summary judgment and, 
+thus, vacate and remand for proceedings consistent with 
+this opinion.   
+
+1. Legal Framework 
+
+Although  “the  anticipation  inquiry  first  demands  a 
+proper  claim  construction,”  Trintec  Indus.,  Inc.  v.  Top-
+U.S.A.  Corp.,  295  F.3d  1292,  1294  (Fed.  Cir.  2002),  Wi-
+LAN  does  not  challenge  the  District  Court’s  claim  con-
+struction as to the ’437 patent, see Appellants’ Br. 22–44.  
+Thus, we begin with the prior art.  A reference is anticipa-
+tory  under  35  U.S.C.  § 102(b)  (2006)3  if  “the  prior  art 
+reference . . . disclose[s]  each  and  every  feature  of  the 
+claimed  invention,  either  explicitly  or  inherently.”    Eli 
+Lilly  &  Co.  v.  Zenith  Goldline  Pharm.,  Inc.,  471  F.3d 
+1369, 1375 (Fed. Cir. 2006) (citation omitted).   
+
+                                            
+3 
+
+In passing the Leahy-Smith America Invents Act 
+(“AIA”), Congress amended § 102.  See Pub. L. No. 112-29, 
+§ 3(b),  125  Stat.  284,  285–87  (2011).    However,  because 
+the application that led to the ’437 patent was filed before 
+March  16,  2013,  the  pre-AIA  § 102(b)  applies.    See  id. 
+§ 3(n)(1), 125 Stat. at 293. 
+
+ 
+8 
+
+                                         WI-LAN USA, INC. v. ERICSSON, INC. 
+
+2. The Prior Art 
+
+Prior  art  Michel  Mouly  &  Marie-Bernadette  Pautet, 
+The GSM System for Mobile Communications (Cell & Sys 
+Correspondence 1992) (“Mouly”) (J.A. 789–828, 2377–414) 
+discloses  the  global  system  for  mobile  communications 
+(“GSM”)  standard  for  cellular  communications.    Mouly 
+discloses a “handover,” which is the process of synchroniz-
+ing  the  timing  of  communications  between  mobile  users 
+and  cell  towers  when  “transferring  a  transaction  in  pro-
+gress  (a  call  in  particular)  from  one  cell  to  another  to 
+avoid  the  adverse  effects  of  user  movements . . . .”    J.A. 
+795.   
+
+Relevant  here,  Mouly  discloses  how  the  timing  ad-
+vance  is  applied  to  communications  between  the  mobile 
+device and cellular towers.  The timing advance addresses 
+the overall time necessary for data bursts to travel from 
+the mobile device to the cellular tower, which includes a 
+time offset that is not dependent on the user’s location as 
+well as a time offset that does depend on the user’s loca-
+tion.  See J.A. 810.  The timing advance issue incorporates 
+both  synchronous  and  asynchronous  handovers.    See 
+J.A. 811, 2396. 
+
+For  synchronous  handovers,  “the  mobile  station  is 
+able  to  compute  the  new  timing  advance  (to  be  applied 
+with  [the  new  cell  tower]),  because  the  old  and  the  new 
+cells  are  synchronized.”    J.A.  2396.    For  asynchronous 
+handovers, “the timing advance must be initiali[z]ed both 
+at  the  mobile  station  and  at  [the  new  cell  tower]  during 
+the handover procedure.”  J.A. 2396.  This is accomplished 
+by  the  mobile  station  sending  access  bursts4  to  the  new 
+
+                                            
+4  A burst is a “unit of transmission [that] is a series 
+of  about  a  hundred  modulated  bits”  and  is  of  “a  finite 
+duration . . . occupy[ing]  a  finite  part  of  the  radio  spec-
+
+ 
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+9 
+
+cell  tower  “with  a  null  timing  advance.”    J.A.  2394;  see 
+J.A.  2409.    Once  the  new  cell  tower  receives  this  access 
+burst,  it  “can  derive  the  value  of  the  timing  advance, 
+which  it  sends  to  the  mobile  station  in  a signaling  mes-
+sage.”  J.A. 2394.  Once the mobile station “receives this 
+message, [it] is able to start correctly transmitting normal 
+bursts.”  J.A. 2394.   
+
+Both  types  of  handovers  involve  several  processes  of 
+transmitting  an  8-bit  message  from  the  new  cell  tower, 
+the old cell tower, and the mobile station.  See J.A. 2398–
+99, 2403, 2409.  For synchronous handovers, “the mobile 
+station  first  sends  a  few  access  bursts  (the  [8-bit]  RIL3-
+RR  HANDOVER  ACCESS  message),  then  starts  normal 
+transmission by applying the computed timing advance.”  
+J.A.  2409.    For  asynchronous  handovers,  “the  mobile 
+station continues to send access bursts [(i.e., the RIL3-RR 
+HANDOVER ACCESS message)] until it has received an 
+[8-bit  message  with 
+infor-
+mation] . . . from  [the  new  cell  tower],  conveying  the 
+actual timing advance  to apply.   Only  then  does  it  start 
+normal transmission.”  J.A. 2409.   
+3. A Genuine Dispute as to Material Facts Bars Invalidity 
+
+resource 
+
+physical 
+
+Summary Judgment on the ’437 Patent 
+
+Before the District Court, the parties disagreed about 
+the  existence  of  a  genuine  dispute  as  to  whether  Mouly 
+discloses  that  synchronous  and  asynchronous  handover 
+access  messages  are  sent  via  a  dedicated  channel  or  a 
+random  access  channel  (“RACH”).    J.A.  20–21,  23.    Ac-
+
+                                                                                                  
+
+trum.”  J.A. 2384 (footnote omitted).  The access burst is a 
+short  burst  that  “is  only  used  in  the  uplink  direction 
+during initial phases when the propagation delay between 
+the mobile station and the base station is not yet known.”  
+J.A. 2386.   
+
+ 
+10 
+
+                                         WI-LAN USA, INC. v. ERICSSON, INC. 
+
+cording  to  the  District  Court,  although  Mouly  “supports 
+the  statement  that  the  RIL3-RR  HANDOVER  ACCESS 
+message  is  the  only  case  where  short  access  bursts  are 
+used  on  a  dedicated  channel  in  a  synchronous  hando-
+ver, . . . [it]  does  not  support  that  this  is  also  true  with 
+asynchronous  handovers.”    J.A.  24  (internal  quotation 
+marks and emphases omitted) (citing J.A. 2394, 2396).   
+
+The  District  Court  further  stated  that,  “[a]lthough 
+when read in isolation, this [passage in Mouly] could be 
+read to include asynchronous handovers, such a reading is 
+inconsistent  with  the  rest  of  Mouly  (totaling  695  pages) 
+and  inconsistent  with  both  [p]arties’  expert  testimony.”  
+J.A.  24–25  (footnote  and  citations  omitted).    Thus,  the 
+District  Court  concluded  “the  HANDOVER  ACCESS 
+message [in Mouly] is sent on a RACH” for an asynchro-
+nous  handover.    J.A.  25.    Ultimately,  the  District  Court 
+found  the  claims  invalid  as anticipated  because  Wi-LAN 
+failed  to  identify  factual  disputes  regarding  the  limita-
+tions  in  claims  8  and  18  of  the  ’437  patent  and  Mouly 
+discloses these limitations.  J.A. 32.   
+
+a. The District Court’s Errors 
+
+The  District  Court  made  two  errors  in  its  analysis, 
+both involving the use of improper evidence at the sum-
+mary judgment stage.  First, the District Court weighed 
+the  evidence  presented  by  Ericsson’s  expert,  Mark  Lan-
+ning, and Wi-LAN’s expert, Paul Min, against the disclo-
+sures of Mouly and drew inferences from these facts.  See 
+J.A. 24–27 (citing Mr. Lanning’s declaration and discuss-
+ing Dr. Min’s deposition and Mouly’s text and figures); see 
+also  J.A.  24  n.17  (“[T]his  passage  [in  Mouly]  appears  to 
+support Ericsson’s position . . . .”).  However, when ruling 
+on  a  motion  for  summary  judgment,  “[c]redibility  deter-
+minations, the weighing of the evidence, and the drawing 
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+11 
+
+of legitimate inferences from the facts are jury functions, 
+not those of a judge . . . .”5  Anderson, 477 U.S. at 255.   
+
+                                            
+5  The  dissent  disagrees,  saying  the  District  Court 
+relied on Dr. Min’s “admission” that “‘the mobile station is 
+forbidden  to  transmit  the  data  which  is  on  a  dedicated 
+channel  until . . . the  synchronization 
+initiated.’”  
+Dissent  at  3  (quoting  J.A.  1415).    However,  this  alleged 
+admission is preceded by “I mean, that’s what he [(refer-
+ring to a statement previously quoted by counsel)] said.”  
+J.A.  1415;  see  J.A.  1414,  2331.    When  read  in  toto,  Dr. 
+Min’s testimony is not an admission, but rather is para-
+phrasing what counsel quoted from Mouly. 
+
+is 
+
+The dissent also states this “admission” includes Dr. 
+Min’s  affirmance  of  Ericsson’s  clarification  “that,  to  the 
+extent the statement refers to an access burst being sent 
+on a dedicated channel in an asynchronous scenario, ‘the 
+synchronization  takes  place  prior  to  the  access  burst 
+being  sent[]’ . . . .”    Dissent  at  4  (quoting  J.A.  1418).  
+However,  the  testimony  culminating  in  this  “admission” 
+was  responding  to  questions  about  Mouly  and  the  “8-bit 
+handover reference.”  J.A. 1416 (quoting J.A. 2409).  Dr. 
+Min stated the “‘8-bit handover reference’ clearly is relat-
+ed to a handover scenario, but the next . . . sentence said, 
+‘[t]his message is the only case where short access bursts 
+are used on a dedicated channel.’”  J.A. 1416 (quoting J.A. 
+2409).    Dr.  Min  further  said  “[s]o  this  has  more  to  do 
+with . . . communicating  over  [a]  dedicated  channel  as 
+opposed  to  [a]  Random  Access  Channel.”    J.A.  1416.  
+Following  objections  from  Wi-LAN’s  counsel,  Ericsson 
+further asked whether Dr. Min could “tell one way or the 
+other” if Mouly was “referring to . . . a synchronous hand-
+over?”  J.A. 1417.  In response, Dr. Min stated that “[i]t 
+can  be  either  way”  and  then  proceeded  to  discuss  both 
+asynchronous and synchronous handovers before making 
+
+ 
+
+ 
+12 
+
+                                         WI-LAN USA, INC. v. ERICSSON, INC. 
+
+Next,  the  District  Court  cites  to  unsupported  state-
+ments made by Ericsson’s counsel to reach its conclusion 
+that  the  record  does  not  demonstrate  that  the  RIL3-RR 
+HANDOVER  ACCESS  message  uses  short  access  bursts 
+on a dedicated channel for asynchronous handovers.  See 
+J.A. 21, 24 n.17 (“As counsel for Ericsson explained dur-
+ing the May 13, 2015 hearing, [the new cell tower] cannot 
+set  up  a  dedicated  channel  until  synchronization  has 
+occurred  because  it  is  not  until  then  that  [the  new  cell 
+tower] knows how far away the phone is, how it is moving, 
+and other physical information required to set up a dedi-
+cated  channel.”).    These  statements  are  attorney  argu-
+ment,  not  record  evidence,  and  relying  on  these  bare 
+assertions  was  improper.6    See,  e.g.,  Laitram  Corp.  v. 
+
+                                                                                                  
+
+this  alleged  admission.    J.A.  1417.    The  District  Court 
+improperly  made  inferences  from  portions  of  Dr.  Min’s 
+testimony.    The  testimony  leading  up  to  this  supposed 
+admission of “[y]es, that’s right,” J.A. 1418, demonstrates 
+this statement is far from an unequivocal admission. 
+
+6  The  dissent  disagrees,  saying  the  District  Court 
+“included a quotation of an argument by Ericsson’s coun-
+sel  in  the  portion  of  the  court’s  opinion  where  the  court 
+was laying out the arguments made by each party before 
+making  its  findings  in  relation  to  which  party’s  argu-
+ments were well taken.”  Dissent at 2.  Context, however, 
+demonstrates  the  District  Court  is  relying  on  attorney 
+argument in making its findings.   
+
+Preceding the phrase at issue, the District Court said 
+“the  passage  Wi-LAN  quotes  [from  Mouly]  supports 
+Ericsson’s  position  that  asynchronous  communications 
+must  take  place  on  the  RACH  until  the  mobile  station 
+receives . . . the actual timing advance to apply . . . .”  J.A. 
+24  n.17  (internal  quotation  marks  and  citation  omitted).  
+It further stated that “a timing adjustment is required for 
+
+ 
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+13 
+
+Cambridge Wire Cloth Co., 919 F.2d 1579, 1583 (Fed. Cir. 
+1990)  (criticizing the  parties’  “reliance  on  attorney  argu-
+ment  and  counsel’s  unsworn  fact  statements  as  ‘evi-
+dence’”), superseded by statute on other grounds as stated 
+in Rotec Indus., Inc.  v. Mitsubishi Corp.,  215 F.3d 1246, 
+1259  (Fed.  Cir.  2000);  see  also  Gemtron  Corp.  v.  Saint-
+Gobain  Corp.,  572  F.3d  1371,  1380  (Fed.  Cir.  2009) 
+(“Saint-Gobain’s  unsworn  attorney  argument  to  the 
+contrary—made  for  the  first  time  at  oral  argument  on 
+appeal—is  not  evidence  and  cannot  rebut  the  video  and 
+other admitted evidence concerning Saint-Gobain’s manu-
+facturing process.”). 
+
+b. Material Facts Are in Dispute 
+
+  Additionally,  an  access  burst 
+
+Apart  from  these  errors,  we  also  find  that  there  re-
+mains  a  genuine  dispute  as  to  what  Mouly  discloses.  
+Mouly is ambiguous in its explanation of whether access 
+bursts in asynchronous and synchronous handovers occur 
+on a RACH.  When defining “access burst,” Mouly states 
+“it  is  the  only  kind  of  burst  used  on  the  RACH.”    J.A. 
+2386. 
+“is  only 
+used . . . during 
+initial  phases  when  the . . . [timing] 
+delay . . . is not yet known.  This is the case with the first 
+access  of  a  mobile  station  on  the  RACH,  or  sometimes 
+with  the  access  of  a  mobile  station  to  a  new  cell  upon 
+handover.”    J.A.  2386.    However,  Mouly  later  discusses 
+both  synchronous  and  asynchronous  handovers,  where 
+“[i]n  both  cases,  the  RIL3-RR  HANDOVER  ACCESS 
+message . . . . is the only case where short access bursts are 
+used on a dedicated channel.”  J.A. 2409 (emphasis add-
+ed). 
+
+                                                                                                  
+
+synchronization, which in turn, is required for communi-
+cation on a dedicated channel.”  J.A. 24 n.17.  The District 
+Court  was  no  longer restating  the  parties’  arguments; it 
+was making findings. 
+
+ 
+14 
+
+                                         WI-LAN USA, INC. v. ERICSSON, INC. 
+
+Additionally,  both  Wi-LAN’s  and  Ericsson’s  experts 
+have provided evidence that, when viewed in favor of Wi-
+LAN, demonstrates summary judgement is improper.  In 
+discussing Mouly in his report to the District Court, Mr. 
+Lanning  relied  upon  the  GSM  standard  that  states  the 
+handover message is transmitted over a dedicated chan-
+nel.  See J.A. 405 (“This [handover access] message is sent 
+in random mode on the main [dedicated channel] during a 
+handover  procedure.”  (quoting  GSM  standard  3GPP  TS 
+44.018 § 9.1.14)); see also J.A. 2424 (providing in the GSM 
+standard  that  a  non-synchronized  cell  case  operates  by 
+“sending  continuously on the main  [dedicated  channel] a 
+HANDOVER ACCESS message.  This message is sent in 
+random mode and thus does not follow the basic format.” 
+(emphasis  added)).      Dr.  Min’s  expert  report  provides 
+additional  support,  interpreting  Mouly  to  disclose  a 
+dedicated channel that is used during handover.  See J.A. 
+3183–84 (stating that “Mouly does not  disclose receiving 
+the  random  access  identifier  over  a  [RACH] . . . .  To  the 
+contrary,  Mouly  explicitly  discloses  that  access  bursts 
+containing the handover reference are used on a dedicated 
+channel.” (emphases and footnote omitted)).   
+
+Mouly’s statements are at least highly ambiguous as 
+to  whether  synchronous  or  asynchronous  handover  mes-
+sages occur on a RACH or a dedicated channel.  Addition-
+ally,  the  parties’  experts  demonstrate  that  there  is  a 
+dispute as to which interpretation is correct.  Such ambi-
+guity  is  best  left  for  determination  by  a  factfinder.    Be-
+cause  the  District  Court  erred  in  finding  that  there  was 
+no  genuine  dispute  as  to  any  material  fact,  granting 
+summary  judgment  of  invalidity  was  improper  and  we 
+need  not  address  the  remaining  limitations  of  claims  8 
+and 18 of the ’437 patent.  We therefore vacate the Dis-
+trict Court’s grant of summary judgment and remand for 
+further proceedings consistent with this opinion.   
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+15 
+
+B. Non-Infringement of the Bandwidth Patents 
+1. Standard of Review and Legal Framework  
+
+invention[]  within 
+
+A person infringes a patent if, without permission of 
+the  patentee,  that  person  “makes,  uses,  offers  to  sell,  or 
+sells  any  patented 
+the  United 
+States . . . during the term of the patent therefor . . . .”  35 
+U.S.C.  § 271(a)  (2012).    Whether  an  accused  product 
+infringes a patent involves a two-step inquiry.  See Glaxo, 
+Inc.  v.  Novopharm,  Ltd.,  110  F.3d  1562,  1565  (Fed.  Cir. 
+1997).    “First,  the  court  must  construe  the  asserted 
+claim. . . .  Second, the court must determine whether the 
+accused  product . . . contains  each 
+limitation  of  the 
+properly  construed  claim[],  either  literally  or  by  a  sub-
+stantial equivalent.”  Freedman Seating Co. v. Am. Seat-
+ing Co., 420 F.3d 1350, 1356–57 (Fed. Cir. 2005) (citations 
+omitted).   
+
+The first step is a question of law reviewed de novo.  
+Teva  Pharm.  USA,  Inc.  v.  Sandoz,  Inc.,  135  S.  Ct.  831, 
+841 (2015).  Claim terms “are generally given their ordi-
+nary  and  customary  meaning”  as  they  would  be  under-
+stood by a person having ordinary skill in the art at the 
+“time of the invention.”  Phillips v. AWH Corp., 415 F.3d 
+1303,  1312,  1313  (Fed.  Cir.  2005)  (en  banc)  (internal 
+quotation marks and citation omitted).  “To ascertain the 
+scope and meaning of the asserted claims, we look to the 
+words  of  the  claims  themselves,  the  specification,  the 
+prosecution  history,  and,  if  necessary,  any  relevant  ex-
+trinsic evidence.”  Chi. Bd. Options Exch., Inc. v. Int’l Sec. 
+Exch., LLC, 677 F.3d 1361, 1366 (Fed. Cir. 2012) (citation 
+omitted).    “[T]he  specification  is  the  single  best  guide  to 
+the meaning of a disputed term, and . . . acts as a diction-
+ary when it expressly defines terms used in the claims or 
+when it defines terms by implication.”  Phillips, 415 F.3d 
+at 1321 (internal quotation marks and citations omitted).   
+The second step is a question of fact.  Absolute Soft-
+ware, Inc. v. Stealth Signal, Inc., 659 F.3d 1121, 1129–30 
+
+ 
+16 
+
+                                         WI-LAN USA, INC. v. ERICSSON, INC. 
+
+(Fed.  Cir.  2011).    Thus,  a  court  properly  may  enter  in-
+fringement summary judgment “when no genuine issue of 
+material  fact  exists,  in  particular,  when  no  reasonable 
+jury could find that every limitation recited in the proper-
+ly construed claim either is or is not found in the accused 
+device.”    Bai  v.  L&L  Wings,  Inc.,  160  F.3d  1350,  1353 
+(Fed. Cir. 1998) (citation omitted). 
+
+Wi-LAN raises arguments under each step of the in-
+fringement  inquiry.   Appellants’  Br.  45–60.    We  address 
+each step in turn. 
+2. The District Court Did Not Err in Construing “Band-
+
+width” 
+
+The  District  Court  “accept[ed]  Ericsson’s  proposed 
+construction based on [another district court judge]’s prior 
+holding”  and  construed  “bandwidth”  to  mean  “data 
+transmission resources in a particular time period.”  Wi-
+LAN, 2015 WL 6673742, at *4.  Wi-LAN argues that the 
+District  Court  improperly  narrowed  the  construction  by 
+adding  a  time  requirement  that  is  not  required  in  the 
+disclosed embodiment of the Bandwidth Patents.  Appel-
+lants’  Br.  46–47.    Wi-LAN  contends  that  “bandwidth”  is 
+used  broadly  in  the  Bandwidth  Patents  to  describe  “a 
+quantity of data to be transmitted or . . . the units of time 
+and frequency within the radio spectrum that are used to 
+send that data.”  Id. at 46.  
+
+We  first  look  to  the  claim  language  to  ascertain  the 
+scope and meaning of “bandwidth.”  Independent claims 1, 
+4, and 6 of the ’014 patent disclose a system and a method 
+that  “detect[s]  a  bandwidth . . . request  in  the  [uplink] 
+traffic  [or  data]  received  from  a  subscriber  unit”  and 
+“identif[ies]  in  the  [bandwidth]  request  a  requested 
+amount of [uplink] bandwidth.”  ’014 patent col. 23 ll. 13–
+14, 15–16 (claim 1); see id. col. 23 ll. 45–46, 47–48 (claim 
+4)  (similar),  col.  24  ll.  24–25,  25–27  (claim  6)  (similar).  
+Independent  claim  1  of  the  ’298  patent  states  the  same, 
+’298 patent col. 23 ll. 17–19, and dependent claims 2 and 4 
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+17 
+
+of  the  ’298  patent  describes  “bandwidth”  in  a  similar 
+fashion, id. col. 23 ll. 30–35, 39–41.  None of these claims 
+contain  an  explicit  restriction  to  “a  particular  time,”  as 
+Wi-LAN argues.  Thus, we next turn to the specification of 
+the Bandwidth Patents.   
+
+Four separate portions of the specification inform the 
+meaning  of  “bandwidth”  in  the  Bandwidth  Patents’ 
+claims.    All  four  portions  discuss  bandwidth  with  the 
+addition  of  a  time  component.    First,  the  specification 
+discloses  that  bandwidth  allocation  can  be  structured  as 
+“us[ing]  either  time  division  duplexing  [(‘TDD’)]  or  fre-
+quency  division  duplexing  [(‘FDD’)]  methods  to  facilitate 
+the exchange of information between the base station and 
+the subscriber units.”  Id. col. 1 ll. 54–57.  In discussing 
+Figure 1 and the use of a TDD scheme, the specification 
+states that the “base station . . . transmits without having 
+to  coordinate  with  other  base  stations,  except  for  the 
+overall  time-division  duplexing  that  divides  time  into 
+upstream (uplink) and downstream (down-link) transmis-
+sion periods.”  Id. col. 6 ll. 44–49 (emphasis added).  The 
+specification also incorporates a prior patent that discuss-
+es why TDD systems are more advantageous.  See id. col. 
+7  ll.  52–57  (discussing  U.S.  Patent  No.  6,016,311  (“Gil-
+bert”)); see also Gilbert col. 2 ll. 7–9, 16–17 (discussing the 
+disadvantages  of  FDD  systems  as  being  “more  complex 
+and  therefore  more  costly  than  those  used  by  TDD  sys-
+tems,”  as  well  as  having  “limited  flexibility  and  limited 
+available  frequency  spectrum”),  col.  6  ll.  45,  47–48  (dis-
+cussing  a  “typical  TDD  system”  that  has  “equal  use  of 
+time  slot  allocations  for  the  uplink  and  downlink  trans-
+missions”).  After demonstrating the advantages of a TDD 
+system over a FDD system, the specification only discuss-
+es  the  claimed  invention  within  a  TDD  scheme.    See 
+generally ’298 patent.   
+
+Next,  the  specification  discusses  the  use  of  a  TDD 
+scheme  for  allocating  bandwidth.    Figure  2  shows  that 
+“the TDD frame is subdivided into a plurality of physical 
+
+ 
+18 
+
+                                         WI-LAN USA, INC. v. ERICSSON, INC. 
+
+slots  [(‘PS’)]”  where  “the  frame  is  one  millisecond  in 
+duration and includes 800 [PS].”  Id. col. 7 ll. 37–38, 39–
+40.  “Alternatively, the present invention can be used with 
+frames having longer or shorter duration and with more 
+or fewer PS[].  The available bandwidth is allocated by a 
+base  station  in  units  of  a  certain  pre-defined  number  of 
+PS[].”  Id. col. 7 ll. 40–43.   
+
+A  third  example  of  where  the  specification  discusses 
+the use of a TDD scheme for allocating bandwidth occurs 
+in its discussion of downlink and uplink sub-frame maps.  
+See  id.  col.  8  l.  6–col.  9  l.  27.    In  Figure  4,  “[a]ll  of  the 
+bandwidth  allocated  to  a  selected  CPE  within  a  given 
+TDD  frame  (or alternatively an adaptive TDD  frame,  as 
+the case may be) is grouped into a contiguous CPE sched-
+uled data block . . . .”  Id. col. 9 ll. 21–25.  “The [PS] allo-
+cated for the [CPE transition gaps] . . . are included in the 
+bandwidth  allocation  to  a  selected  CPE . . . in  the  base 
+station uplink sub-frame map.”  Id. col. 9 ll. 25–27.    
+
+A  final  example  of  where  the  specification  discloses 
+the use of a TDD scheme occurs during its discussion of 
+the transmission of queued data and the quality of service 
+for  this  queued  data.    See  id.  col.  19  l.  50–col.  21  l.  4.  
+Fairness algorithms are used to help ensure data quality 
+when there “is insufficient bandwidth to transmit all the 
+queued data during the current TDD Frame.”  Id. col. 19 
+ll. 50–51.  “For each TDD frame, the [algorithm running 
+in the] base station allocates the down-link portion of the 
+TDD  frame  and  it  performs  an  estimate  of  the  uplink 
+traffic to allocate uplink bandwidth to the CPEs.”  Id. col. 
+21 ll. 2–4. 
+
+Taken together, we find that the specification demon-
+strates  that  the  bandwidth  requirements  will  vary  over 
+time, depending on the needs of the consumer.  We there-
+fore  affirm  the  District  Court’s  claim  construction  of 
+“bandwidth”  to  mean  “data  transmission  resources  in  a 
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+19 
+
+particular time period.”  We next move to the second step 
+of the infringement determination. 
+
+3. The District Court Erred in Granting Non-
+
+Infringement Summary Judgment 
+
+Wi-LAN  argues  the  District  Court  erred  in  entering 
+summary  judgment  that  Ericsson  did  not  infringe  the 
+Bandwidth Patents because there were genuine disputes 
+of material fact.  See Appellants’ Br. 50–60.  We agree. 
+
+a. Ericsson’s Accused Products  
+
+Wi-LAN  accused  Ericsson’s  radio  base  station  prod-
+ucts, which practice the fourth generation telecommunica-
+tions  standard  of  Long  Term  Evolution  (“LTE”),  of 
+infringing  the  Bandwidth  Patents.    The  radio  base  sta-
+tions allow subscribers to access a carrier’s LTE network 
+by  “receiv[ing]  uplink  data  from  connected  subscriber 
+units  and  forward[ing]  that  data  to  providers’  networks 
+and  to  the  Internet. . . .    The  subscriber  units  require 
+bandwidth  to  send  the  uplink  data  to  the  [radio  base 
+stations].”  J.A. 9 (citations omitted).   
+
+Two features of Ericsson’s accused products are rele-
+vant  to  this  appeal—the  “buffer  status  report[]  [(‘BSR’)] 
+and the Scheduler”:   
+
+A [BSR] is a report periodically sent from the sub-
+scriber unit to the [radio base station] that reports 
+the amount of data presently available to be sent 
+on  the  uplink.  . . .  The  subscriber  unit  sends  a 
+BSR when it has no data left to send, or when it 
+has  a  lot  of  data  available  to  send.  . . .    The 
+Scheduler  allocates  bandwidth  by  sending  an  in-
+dividual . . . message  to  each  subscriber  unit.  . . .  
+That message contains all the information a sub-
+scriber  unit  needs  to  transmit  its  data,  and  also 
+contains  retransmission  commands  that  the  sub-
+scriber unit must follow.   
+
+ 
+20 
+
+                                         WI-LAN USA, INC. v. ERICSSON, INC. 
+
+J.A. 9 (citations and footnote omitted). 
+
+b. The District Court’s Errors 
+
+The District Court’s opinion contains two errors that 
+preclude  the  entry  of  summary  judgment.    The  District 
+Court determined that Wi-LAN failed to identify a genu-
+ine  issue  of  material  fact  as  to  direct  infringement  and 
+concluded that Ericsson’s accused products do not infringe 
+the Bandwidth Patents.  J.A. 17.  In reaching this conclu-
+sion, the District Court stated that  
+
+Ericsson’s  [radio  base  station] . . . decides  how 
+much, if any, bandwidth to allocate to a subscriber 
+unit, based in part on a report the subscriber unit 
+sends it (the “BSR”).  . . .  The BSR contains only 
+two  pieces  of  information:    (1) an  identification 
+number for a logical channel group, and (2) an in-
+teger that approximates the bytes of data availa-
+ble  for  uplink  transmission.  . . .   In  other  words, 
+the BSR merely reports an approximation of how 
+much data is available for transmission on the up-
+link.   
+
+J.A.  14  (footnote  and  citations  omitted).    The  District 
+Court further stated that “[a]ll of the [A]sserted [C]laims 
+[of the Bandwidth Patents] require that Ericsson’s [radio 
+base  stations]  identify  in  the  bandwidth  request  a  re-
+quested  amount  of  bandwidth[.]”    J.A.  15  (emphasis 
+added)  (internal  quotation  marks  and  citations  omitted).  
+In  light  of  this  evidence,  the  District  Court  held  that 
+Ericsson  could  not  infringe  the  Wi-LAN  patents  because 
+the  Ericsson  products  do  not  request  bandwidth  as 
+claimed  in  the  Bandwidth  Patents;  rather  the  accused 
+product  calculates  an  amount  of  bandwidth  to  allocate.  
+See J.A. 15 (“The [radio base stations] . . . use the bytes of 
+data reported in the BSR, along with other information to 
+calculate  an  amount  of  bandwidth  to  allocate.    In  other 
+words, there is no ‘requested amount of bandwidth’ in the 
+BSR  for  a[]  [radio  base  station]  to  ‘identify.’”  (citations 
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+21 
+
+omitted)).    Additionally,  the  District  Court  noted  that 
+“LTE subscriber units send BSRs to [radio base stations] 
+even  when  they  have  no  need  for  bandwidth.”    J.A.  17 
+(citation  omitted).    The  District  Court  found  that  this 
+further  supported  its  conclusion  that  no  bandwidth  is 
+requested by the Ericsson products.   
+
+The  District  Court  erred  in  entering  summary  judg-
+ment because it ignored conflicting evidence in the record 
+and placed greater weight on Ericsson’s evidence.  As to 
+the conclusion that a BSR is not a request for bandwidth, 
+Wi-LAN had argued to the District Court that “[t]he base 
+station treats each BSR as a request and identifies in it a 
+requested  amount  of  bandwidth  because  of  its  purpose, 
+contents, and context.”  J.A. 2246 (Wi-LAN’s Opposition to 
+Ericsson’s  Motion  for  Summary  Judgment).    In  this 
+Opposition,  Wi-LAN  further  stated  that  “Dr.  Min  ex-
+plains[]  ‘all  understand  that  the  BSR  is  sent  for  the 
+purpose of requesting bandwidth from the base station to 
+transmit the uplink data and to clear its buffers . . . and 
+[thus] . . . the base station will respond by granting band-
+width in response to the BSR.”  J.A. 2246 (citation omit-
+ted); see J.A. 2245 (Dr. Min stating “[t]he entire purpose 
+of  the  BSR  is  to  inform  the  base  station,  which  would 
+otherwise  have  no  way  of  knowing  the  amount  of  band-
+width  [the  user  equipment]  requires  at  a  particular 
+[transition  time  interval].”).    Rather  than  acknowledge 
+the dispute about this fact, the District Court determined 
+this evidence did not support Wi-LAN’s arguments.  J.A. 
+15.    The  District  Court  rejected  Wi-LAN’s  evidence  be-
+cause  “it  merely  indicates  that  the  number  of  bytes  of 
+data  reported  in  a  BSR  is  a  factor  [that  radio  base  sta-
+tions] use in calculating the number of [physical resource 
+blocks] to allocate to subscriber units.”  J.A. 15. 
+
+Taken  together,  we  find  that  the  District  Court 
+weighed  conflicting  evidence  and  improperly  credited 
+Ericsson’s evidence when reaching its conclusion that the 
+accused  products  do  not  request  bandwidth.    See  Ander-
+
+ 
+22 
+
+                                         WI-LAN USA, INC. v. ERICSSON, INC. 
+
+son,  477  U.S.  at  255.    We  vacate  the  grant  of  summary 
+judgment and remand for  further  proceedings consistent 
+with this opinion.  
+
+III. Ericsson’s Cross-Appeal 
+
+In  its  cross-appeal,  Ericsson  challenges  only  one  as-
+pect  of  the  District  Court’s  decision—i.e.,  whether  the 
+District  Court  erred  by  finding  that  the  MFL  Provision 
+did not apply to the Patents-in-Suit.  We agree with the 
+District Court that the MFL Provision does not apply. 
+
+A. Legal Framework 
+
+The PCRA is “governed in all respects in accordance 
+with  the  laws  of  the  state  of  New  York.”    J.A.  1766.  
+Under New York law, “[t]he fundamental, neutral precept 
+of  contract  interpretation  is  that  agreements  are  con-
+strued  in  accord  with  the  parties’  intent.”    Greenfield  v. 
+Philles  Records,  Inc.,  780  N.E.2d  166,  170  (N.Y.  2002) 
+(citation  omitted).    “[T]he  construction  of  a  plain  and 
+unambiguous  contract  is  for  the  court  to  pass  on, 
+and . . . circumstances extrinsic to the agreement will not 
+be  considered  when  the  intention  of  the  parties  can  be 
+gathered from the instrument itself.”  West, Weir & Bar-
+tel, Inc. v. Mary Carter Paint Co., 255 N.E.2d 709, 711–12 
+(N.Y.  1969)  (citation  omitted).    “In  interpreting  a  con-
+tract[,]  the  court  should  examine  the  entire  agreement  
+and  consider  the  relation  of  the  parties  and  the  circum-
+stances under which it was executed.”  William C. Atwa-
+ter & Co. v. Pan. R.R. Co., 159 N.E. 418, 419 (N.Y. 1927).  
+Additionally, “[p]articular words should be considered, not 
+as  if  isolated  from  the  context,  but  in  the  light  of  the 
+obligation as a whole and the intention of the parties as 
+manifested  thereby.”    Id.    “Where  the  document  makes 
+clear  the  parties’  over-all  intention,  courts  examining 
+isolated  provisions  should  then  choose  that  construction 
+which  will  carry  out  the  plain  purpose  and  object  of  the 
+agreement.”    Kass  v.  Kass,  696  N.E.2d  174,  181  (N.Y. 
+1998)  (internal  quotation  marks,  brackets,  and  citation 
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+23 
+
+omitted).   
+
+B. The District Court Did Not Err in Finding the MFL 
+
+Provision Does Not Apply to the  
+
+Patents-In-Suit 
+
+The  District  Court  concluded  that  the  PCRA’s  MFL 
+Provision did not apply to the Patents-in-Suit.  J.A. 32.  In 
+reaching  this  determination,  the  District  Court  applied 
+this court’s previous holding regarding the PCRA between 
+Ericsson and Wi-LAN.  The District Court stated that the 
+“‘MFL Provision only applies to Wi-LAN’s patents owned 
+or controlled as of the effective date of the PCRA, which 
+the [Patents-in-Suit] were not.’”  J.A. 12 (alteration omit-
+ted)  (quoting  Wi-LAN,  574  F.  App’x  at  940).    “Ericsson 
+does not contend that the [Patents-in-Suit] were owned or 
+controlled  by  Wi-LAN  as  of  the  effective  date  of  the 
+PCRA.”  J.A. 12.  Rather, the District Court found that “it 
+is undisputed that Wi-LAN acquired [the Patents-in-Suit] 
+after  the  execution  of  the  PCRA”  and,  thus,  the  MFL 
+Provision does not apply to the Patents-in-Suit.  J.A. 12.   
+On cross-appeal, Ericsson argues that the PCRA was 
+triggered  by  Wi-LAN’s  assertion  of  U.S.  Patent  No. 
+6,549,759  (“the  ’759  patent”)7  against  unrelated  third 
+parties’  products  (i.e.,  products  under  the  Universal 
+Mobile  Telecommunications  System  (“UMTS”)  or  High 
+Speed  Packet  Access  (“HSPA”)  standards,  collectively 
+“UMTS/HSPA products”).8  Once the PCRA was triggered, 
+
+                                            
+7  Wi-LAN  owned  or  controlled  the  ’759  patent  be-
+fore  the  November  1,  2007  effective  date  of  the  PCRA.  
+See  J.A.  1756  (effective  date  of  the  PCRA);  J.A.  1789 
+(assignment history of the ’759 patent).   
+
+8  The UMTS “standard broadly defines third gener-
+ation cellular network specifications and protocols—more 
+commonly known as ‘3G.’  The UMTS standard consists of 
+
+ 
+
+ 
+24 
+
+                                         WI-LAN USA, INC. v. ERICSSON, INC. 
+
+Ericsson contends that it has the right to “a license on the 
+same  terms  as”  unrelated  third  party  BelAir  Networks 
+Inc.’s license with Wi-LAN (“the BelAir License”).  Cross-
+Appellants’  Br.  61  (capitalization  modified).    Ericsson 
+contends  the  scope  of  the  future  license  under  the  MFL 
+Provision “is not tied to the patent that triggers the MFL 
+Provision[] [(i.e., the ’759 patent,)] for while only patents 
+allegedly  infringed  by  [the  unrelated  third  parties’] 
+UMTS/HSPA  [p]roducts  can  trigger  Ericsson’s  right  to  a 
+license,  that  license  necessarily  and  explicitly  extends 
+beyond 
+[the  unrelated  third  parties’]  UMTS/HSPA 
+[p]roducts.”    Id.  at  62  (citation  omitted).    Because  the 
+terms of the BelAir License “extend . . . to the [Patents-in-
+Suit], the [c]ourt should hold that Ericsson is entitled to 
+judgment on its counterclaims.”  Id. at 63.   
+
+We agree with the District Court’s conclusion that Er-
+icsson is not entitled to a most favored licensee status as 
+to the Patents-in-Suit, but for different reasons than those 
+articulated by the District Court.  We find that Ericsson is 
+entitled  to  a  most  favored  licensee  status  only  for  the 
+patent or patents that trigger the MFL provision—i.e., the 
+’759 patent. 
+
+The  MFL  Provision  is  provided  in  Article  VII  of  the 
+
+PCRA.  In relevant part, Article VII, § 1 states: 
+
+In the event that Wi-LAN owns or controls the li-
+censing  of  patents  not  already  addressed  under 
+this Agreement and which are infringed or alleged 
+to  be  infringed  by  UMTS/HSPA  PRODUCTS, 
+W[i]-LAN hereby agrees that[,] . . . at [Ericsson’s] 
+
+                                                                                                  
+
+a number of narrower standards, including . . . []HSPA[].”  
+Wi-LAN, 574 F. App’x at 933.  “HSPA is a wireless stand-
+ard  that  specifically  relates  to  the  transfer  of  data  be-
+tween the network and a mobile device.”  Id.   
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+25 
+
+request,  W[i]-LAN  will  grant . . . a  non-exclusive 
+license  to  make,  have  made,  use,  sell,  offer  for 
+sale, lease or otherwise dispose of, and import [Er-
+icsson’s]  PRODUCTS 
+including  UMTS/HSPA 
+PRODUCTS and Wi-LAN agrees to grant such a 
+license  at  most-favored  licensee  status  as  com-
+pared to any future licensee of W[i]-LAN. 
+
+J.A. 1760. 
+
+Under  New  York  law,  courts  “should . . . choose  that 
+construction  which  will  carry  out  the  plain  purpose  and 
+object of the agreement.”  Kass, 696 N.E.2d at 181 (inter-
+nal quotation marks, brackets, and citation omitted).  “[A] 
+court should not adopt an interpretation which will oper-
+ate  to  leave  a  provision  of  a  contract  without  force  and 
+effect.”  Corhill Corp. v. S. D. Plants, Inc., 176 N.E.2d 37, 
+38 (1961) (internal quotation marks, citations, and altera-
+tion omitted).  Thus, in interpreting the relevant passage 
+of  the  MFL  Provision,  we  must  consider  the  entire  con-
+tract  and  choose  the  interpretation  “which  best  accords 
+with  the  sense  of  the  remainder  of  the  contract.”    Rent-
+ways, Inc. v. O’Neill Milk & Cream Co., 126 N.E.2d 271, 
+273 (N.Y. 1955) (citations omitted). 
+
+We  previously  concluded  that  the  first  clause  of  the 
+relevant  section  is  triggered  when  patents  that  Wi-LAN 
+owned  or  controlled  as  of  the  PCRA’s  effective  date  are 
+asserted  against  Ericsson’s  alleged  infringing  products.  
+See Wi-LAN, 574 F. App’x at 940.  Ericsson’s interpreta-
+tion of the second clause of the relevant section—i.e., that 
+it is entitled to a license on the same terms as the BelAir 
+License—divorces  the  second  clause  from  the  previously 
+interpreted first clause.  The section discusses the rights 
+extended  to  Ericsson  in  terms  of  patents,  not  products.  
+By  its  terms,  the  section  addresses  the  “licensing  of  pa-
+tents  not  already  addressed  under  this  Agreement,” 
+“which  are  infringed  or  alleged  to  be  infringed  by 
+UMTS/HSPA PRODUCTS.”  J.A. 1760.  Within the same 
+
+ 
+26 
+
+                                         WI-LAN USA, INC. v. ERICSSON, INC. 
+
+sentence,  the  section  further  states  that,  “during  the 
+TERM  of  this  Agreement,”  Wi-LAN  will  grant  a  “non-
+exclusive  license”  that  covers  the  alleged  infringing 
+“PRODUCTS including UMTS/HSPA PRODUCTS.”  J.A. 
+1760.   Reading  the  sentence  in  its  entirety,  the  scope  of 
+the license would cover the patent or patents asserted by 
+Wi-LAN  against  Ericsson  for  infringement,  which  is 
+limited  to  pre-PCRA  patents,  such  as  the  ’759  patent.  
+And reading the scope of the section to apply to any post-
+PCRA patent would result in an unreasonable interpreta-
+tion of the MFL Provision as a whole.   
+
+Granting a license to Ericsson on the same terms as 
+the  BelAir  License  would  grant  Ericsson  significantly 
+broader  rights  than  those  contractually  agreed  to  in  the 
+PCRA.    We  previously  held  that  the  MFL  Provision  is 
+triggered by the assertion of only pre-PCRA patents.  See 
+Wi-LAN,  574  F.  App’x  at  939–40.    Today  we  determine 
+that once the MFL Provision is triggered, the scope of that 
+license  is  limited  to  the  patent  that  triggered  the  MFL 
+Provision.    The  Patents-in-Suit  are  excluded  by  this 
+analysis.  We conclude that the District Court did not err 
+in  finding  the  MFL  Provision  does  not  apply  to  the  Pa-
+tents-in-Suit. 
+
+CONCLUSION 
+
+We have considered the parties’ remaining arguments 
+and find them unpersuasive.  Accordingly, the final judg-
+ment of the U.S. District Court for the Southern District 
+of Florida is  
+
+VACATED-IN-PART, AFFIRMED-IN-PART, AND 
+
+REMANDED 
+
+COSTS 
+
+Each party shall bear its own costs. 
+
+NOTE:  This disposition is nonprecedential. 
+
+United States Court of Appeals 
+
+for the Federal Circuit 
+
+______________________ 
+
+WI-LAN USA, INC., WI-LAN, INC., 
+
+Plaintiffs-Appellants 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+v. 
+ 
+
+ERICSSON, INC., TELEFONAKTIEBOLAGET LM 
+
+ERICSSON, 
+
+Defendants-Cross-Appellants 
+
+______________________ 
+
+2015-1766, -1794 
+
+______________________ 
+
+Appeals from the United States District Court for the 
+Southern  District  of  Florida  in  No.  1:12-cv-23569-DMM, 
+Judge Donald M. Middlebrooks. 
+
+______________________ 
+
+O’MALLEY, Circuit Judge, concurring in part, dissenting 
+in part. 
+
+Respectfully, I must disagree with two of the conclu-
+sions the majority reaches: (1) that the district court erred 
+in granting summary judgment of invalidity with respect 
+to the asserted claims of the ’437 patent; and (2) that the 
+MFL provision in the PCRA, once triggered, is limited to 
+the patent or patents that triggered the provision.  I agree 
+with all other aspects of the majority’s thoughtful analy-
+sis,  including  the  ultimate  conclusion  that  the  MFL 
+provision  of  the  PCRA  does  not  bar  suit  with  respect  to 
+the products at issue in this proceeding. 
+
+2 
+
+ 
+
+  WI-LAN USA, INC. v. ERICSSON, INC. 
+
+I. 
+
+On  my  first  point  of  disagreement,  I  believe  that, 
+when  considered  in  its  entirety,  Mouly  unambiguously 
+teaches that its handover reference is sent over a RACH 
+during asynchronous handover and, thus, anticipates that 
+aspect  of  the  asserted  claims  of  the  ’437  patent.    The 
+majority  points  to  two  errors  it  says  the  district  court 
+made—relying  on  arguments  of  Ericsson’s  counsel  and 
+weighing the expert testimony from both parties against 
+the  teachings  of  Mouly  to  draw  inferences  therefrom.  
+Maj.  Op.  at  10–14.    While  I  do  not  dispute  that  a  trial 
+court  would  err  if  it  predicated  summary  judgment  on 
+such findings, I do not believe the district court relied on 
+such findings here. 
+
+The district court included a quotation of an argument 
+by Ericsson’s counsel in the portion of the court’s opinion 
+where  the  court  was  laying  out  the  arguments  made  by 
+each party before making its findings in relation to which 
+party’s arguments were well taken.  In this portion of the 
+opinion,  the  district  court  also  laid  out  all  of  Wi-LAN’s 
+arguments  to  the  contrary.    The  district  court  did  not 
+directly  rely  on  these  statements  when  making  its  final 
+determination  as  to  what  the  Mouly  reference  discloses, 
+which  comes  well  after  the  court’s  references  to  state-
+ments made by counsel. 
+
+The majority claims that the context provided by foot-
+note 17 shows that the district court relied on the argu-
+ment of counsel to make findings.  Maj. Op. at 12–13 n.6.  
+But  the  district  court’s  analysis  as  to  the  meaning  of 
+Mouly’s  statement  that  the  handover  access  message  “is 
+the  only  case  where  short  access  bursts  are  used  on  a 
+dedicated channel” does not rely on statements by coun-
+sel.  Instead, the district court finds Wi-LAN’s argument 
+“inconsistent with the rest of Mouly (totaling 695 pages) 
+and  inconsistent  with  both  Parties’  expert  testimony.”  
+J.A. 24–25.  The district court then identifies the admis-
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+3 
+
+sions  of  Dr.  Min,  Wi-LAN’s  expert,  as  support  for  its 
+holding.  J.A. 25 n.18. 
+
+Complaints about the district court’s reference to ex-
+pert testimony are also misplaced.  The district court cited 
+an  admission  by  Wi-LAN’s  own  expert  as  a  key  piece  of 
+expert testimony.  There is nothing improper about predi-
+cating summary judgment on binding admissions. 
+
+Specifically,  counsel  asked  Dr.  Min  about  the  teach-
+ings of Mouly.  The portion of Mouly counsel referred to 
+states: 
+
+At initial assignment, or at handover between two 
+cells  which  are  not  synchronised,  no  information 
+can  be  used  by  either  side  to  predict  the  timing 
+advance.    Signalling  messages  are  different,  but 
+the  timing  advance  initialisation  process  is  very 
+similar  in  both  cases.    The  mobile  station  is  for-
+bidden  to  transmit  normal  bursts  until  it  knows 
+the new timing advance to apply. 
+
+J.A.  2394.    Counsel  then  asked  Dr.  Min  whether  that 
+language  indicated  to  Dr.  Min  that  “the  communication 
+between  the  mobile  station  and  the  target  base  station 
+will not be on a dedicated channel until there has been a 
+synchronization  of  the  timing?”    J.A.  1415.    Dr.  Min 
+admitted  that  Mouly  included  this  teaching,  stating  “I 
+mean, that’s what he [Mouly] said, the mobile station is 
+forbidden  to  transmit  the  data  which  is  on  a  dedicated 
+channel  until . . .  the  synchronization  is  initiated.”    J.A. 
+1415. 
+
+Counsel then turned Dr. Min’s attention to the state-
+ment  from  Mouly  on  which  Wi-LAN  based  its  argument 
+against anticipation, and on which the majority relies.  In 
+addressing the RIL3-RR HANDOVER ACCESS message, 
+Mouly states, “[t]his message is the only case where short 
+access bursts are used on a dedicated channel.”  J.A. 826.  
+
+4 
+
+ 
+
+  WI-LAN USA, INC. v. ERICSSON, INC. 
+
+Counsel asked Dr. Min whether this statement applied to 
+only synchronous handover, and Dr. Min replied: 
+
+It can be either way.  You just have to—if it’s an 
+asynchronous  handover,  then  you  have  to  obtain 
+the  synchronization  and  then  you  can  use  it  af-
+terward.    So  if  it’s  for  the  synchronous  handover 
+then it’s easier, clearly, you know, you haven’t lost 
+your  synchronization.    But  if  it’s  asynchronous, 
+then you obtain the synchronization first and then 
+you can use it on a dedicated channel. 
+
+J.A. 1417–18.  Counsel then clarified with Dr. Min that, to 
+the extent the statement refers to an access burst being 
+sent on a dedicated channel in an asynchronous scenario, 
+“the synchronization takes place prior to the access burst 
+being sent,” and Dr. Min stated, “[y]es, that’s right.”  J.A. 
+1418. 
+
+Wi-LAN’s  attempts  to  dismiss  these  statements  as 
+ambiguous testimony about obtaining synchronization on 
+the  dedicated  channel  in  asynchronous  handover  misun-
+derstand its place in the analysis.  Dr. Min admits that a 
+mobile device cannot transmit data on a dedicated chan-
+nel until after synchronization has been completed.  The 
+mobile device therefore must transmit on the RACH prior 
+to synchronization. 
+
+Although Dr. Min does not specifically state that the 
+handover  reference  is  transmitted  prior  to  synchroniza-
+tion, his testimony can only support that result given the 
+teachings of Mouly.  Figure 6.37 of Mouly shows that the 
+RIL3-RR HANDOVER ACCESS message is sent prior to 
+the  mobile  device  receiving  the  RIL3-RR  PHYSICAL 
+INFORMATION  message  that  has  the  timing  advance 
+from the new base station, and therefore prior to synchro-
+nization.  J.A. 826.  Dr. Min admitted Mouly teaches that 
+a mobile device “is forbidden to transmit data which is on 
+a  dedicated  channel  until . . .  the  synchronization  is 
+initiated.”  J.A. 1415; see also J.A. 1417–18.  If the mobile 
+
+WI-LAN USA, INC. v. ERICSSON, INC. 
+
+5 
+
+device cannot transmit over a dedicated channel prior to 
+synchronization, as admitted by Dr. Min, J.A. 1415, 1417–
+18, then the teaching of Mouly that “[t]his message is the 
+only case where short access bursts are used on a dedicat-
+ed  channel,”  J.A.  826,  must  apply  only  to  synchronized 
+handovers.    In  asynchronous  scenarios,  the  RIL3-RR 
+HANDOVER ACCESS message sent prior to synchroniza-
+tion,  as  shown  in  Figure  6.37,  cannot  be  sent  over  a 
+dedicated channel—because synchronization has not been 
+established  yet—and  therefore  must  be  sent  over  the 
+RACH.  
+
+In the absence of material errors by the district court, 
+the  majority  ultimately  predicates  its  conclusion  that 
+Mouly’s  teaching  is  ambiguous  on  one  oddly  phrased 
+sentence  in  the  entire  reference,  which  encompasses 
+hundreds of pages and includes at least seventeen pages 
+dedicated  specifically  to  handover  execution.    As  ex-
+plained above, however, Mouly’s teachings and Dr. Min’s 
+admissions  show  that  this  sentence  cannot  apply  to 
+asynchronous  handovers.    Because  no  reasonable  juror 
+could  read  Mouly  other  than  the  way  the  district  court 
+did,  or  conclude  that  the  one  grammatically  confusing 
+phrase to which Wi-LAN and the majority point is enough 
+to offset the otherwise clear teachings of Mouly, I do not 
+find  that  Wi-LAN’s  dispute  predicated  on  that  phrasing 
+raises  a  genuine  dispute  of  material  fact  to  preclude 
+summary judgment. 
+
+II. 
+
+With  respect  to  the  MFL  provision  of  the  PCRA,  I 
+agree  with  the  majority  that  our  prior  opinion,  Wi-LAN 
+USA,  Inc.  v.  Ericsson,  Inc.,  574  F.  App’x  931  (Fed.  Cir. 
+2014),  only  decided  whether  the  assertion  of  after-
+acquired patents triggers the MFL provision.  Important-
+ly, in that set of companion opinions, we affirmed a Texas 
+judgment  that  rested  only  on  a  determination  of  what 
+could  trigger  the  MFL  provision  and  reversed  a  Florida 
+
+6 
+
+ 
+
+  WI-LAN USA, INC. v. ERICSSON, INC. 
+
+judgment, finding it erred in its assessment of that same 
+predicate  issue.    We  expressly  refused  to  determine  the 
+scope of the MFL provision once triggered. 
+
+Now  that  the  MFL  provision  has  been  triggered,  we 
+must decide that reserved question.  Like the majority, I 
+do not believe our earlier decision compels the conclusion 
+the  district  court  reached  here.    Unlike  the  majority, 
+however, I believe the MFL provision defines the products 
+as to which most favored licensee status would apply, not 
+the patents.  I conclude that the reasoning of our earlier 
+decision as well as basic rules of grammar both limits and 
+extends (depending on one’s perspective) the MFL provi-
+sion to products which incorporate the type of technology 
+at issue in the triggering patents—all UMTS technology.  
+Because the products at issue in this action do not incor-
+porate UMTS technology, I agree with the majority that 
+the MFL provision does not bar Wi-LAN’s action; I just do 
+so for slightly different reasons. 
+III. 
+
+Finally, I agree that the district court properly inter-
+preted  the  term  Bandwidth  and  that,  based  on  that 
+construction,  the  trial  court  erred  in  entering  summary 
+judgment  of  non-infringement  of  the  ’298  and  ’014  pa-
+tents. 
+
+IV. 
+
+For  these  reasons,  I  concur-in-part  and  dissent-in-
+
+part. 
+
+

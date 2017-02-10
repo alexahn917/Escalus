@@ -1,0 +1,454 @@
+ 
+
+NOTE:  This disposition is nonprecedential. 
+
+United States Court of Appeals 
+
+for the Federal Circuit 
+
+______________________ 
+
+KIBBIE P. PILLETTE, 
+
+Plaintiff-Appellant 
+
+UNITED STATES, 
+Defendant-Appellee 
+
+______________________ 
+
+2016-2632 
+
+______________________ 
+
+ 
+v. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appeal  from  the  United  States  Court  of  Federal 
+Claims  in  No.  1:15-cv-00353-EGB,  Senior  Judge  Eric  G. 
+Bruggink. 
+
+______________________ 
+
+Decided:  January 18, 2017 
+
+______________________ 
+
+ 
+KIBBIE P. PILLETTE, Abbeville, LA, pro se. 
+ 
+HEIDI  L.  OSTERHOUT,  Commercial  Litigation  Branch, 
+Civil  Division,  United  States  Department  of  Justice, 
+Washington, DC, for defendant-appellee.  Also represent-
+ed  by  BENJAMIN  C.  MIZER,  ROBERT  E.  KIRSCHMAN,  JR., 
+DEBORAH A. BYNUM. 
+
+______________________ 
+
+Before LOURIE, WALLACH, and HUGHES, Circuit Judges. 
+
+ 
+2 
+
+PER CURIAM. 
+
+   
+
+PILLETTE v. US 
+
+Kibbie Pillette (“Pillette”) appeals from the decision of 
+the Court of Federal Claims (“the Claims Court”) on cross-
+motions for judgment on the administrative record deny-
+ing  Pillette’s  request  for  an  order  directing  the  Army  to 
+correct his military record to reflect a medical retirement.  
+See  Pillette  v.  United  States,  No.  15-353C,  2016  WL 
+4059172  (Fed.  Cl.  July  29,  2016)  (“Decision”).    For  the 
+following reasons, we affirm. 
+
+BACKGROUND 
+
+In November 1965, Pillette was shot in the jaw in Vi-
+etnam.  For the next ten months, he was treated in vari-
+ous  military  hospitals,  and  he  was  awarded  the  Purple 
+Heart. 
+
+On  June  7,  1966,  Pillette’s  term  of  enlisted  service 
+(“ETS”) expired.  The Army retained him past that date to 
+continue treating his injuries.  On July 22, 1966, Pillette 
+signed an affidavit confirming his desire to be retained on 
+active duty beyond his ETS (“July 1966 Affidavit”).  The 
+affidavit stated, inter alia: 
+
+I, SGT E5 KIBBIE P. PILLETTE, have been fully 
+advised  by  the  undersigned  officer  of  the  ad-
+vantage that may accrue to me by voluntarily re-
+maining  on  active  duty  in  the  Army  beyond  the 
+scheduled date of expiration of my term of service 
+for the purpose of continuing medical care or hos-
+pitalization and, if eligible, subsequent separation 
+or retirement for physical disability under the pro-
+visions  of  chapter  61,  title  10,  U.S.C.,  and  have 
+been  further  advised  that  if  I  elect  instead  to  be 
+discharged or released from active duty as sched-
+uled  I  will  not,  after  such  discharge  or  release 
+from active duty, be eligible for separation or re-
+tirement for physical disability. . . .  I (do) desire 
+
+PILLETTE v. US 
+
+3 
+
+retention  on  active  duty  in  the  Army  beyond  the 
+scheduled date of expiration of my tour of service.  
+Supplemental Appendix (“S.A.”) 8 (emphases added).   
+
+On  September  8,  1966, an  Army  Medical Evaluation 
+Board  (“MEB”)  convened  to  determine  whether  Pillette 
+was  fit  for  active  duty.    The  MEB  found  Pillette  fit  for 
+duty  with  certain  limitations  based  on  a  speech  impedi-
+ment.  S.A. 31–32.  The report recommended that he be 
+“[r]eturned  to  duty”  and  “be  separated  from  the  service 
+which  is  his  desire  since  he  is  past  his  ETS.”    Id.    The 
+findings and recommendations of the MEB were approved 
+on September 16, 1966.   
+
+On September 19, 1966, Pillette acknowledged that he 
+had “been informed of the approved findings and recom-
+mendations  of  the  [MEB]”  and  he  crossed  out  and  ini-
+tialed  the  statement  “I  do  not  agree  with  the  Board’s 
+action and desire to appeal.”  Id. at 32.  Pillette did not 
+appeal  the  MEB  decision.    On  September  22,  1966,  Pil-
+lette  was  honorably  discharged  from  active  duty  due  to 
+the expiration of his term of service and transferred to the 
+active reserve.  
+
+Immediately  following  his  discharge,  Pillette  sought 
+treatment at a Veterans Affairs (“VA”) hospital.  On June 
+3,  1967,  the  VA  awarded  him  a  50%  disability  rating 
+effective September 23, 1966.       
+
+In 2009, Pillette filed a request with the Army Board 
+for  Correction  of  Military  Records  (“ABCMR”)  to  change 
+his  discharge  from  honorable  to  a  medical  retirement 
+resulting from the injuries he incurred in Vietnam.  
+
+In  December  2009,  the  ABCMR  denied  Pillette’s  re-
+quest.  The ABCMR first “determined it is in the interest 
+of  justice  to  excuse  [Pillette’s]  failure  to  timely  file”  and 
+
+ 
+4 
+
+   
+
+PILLETTE v. US 
+
+conducted  a  substantive  review.1    In  re  Pillette,  No. 
+AR20090010260,  slip  op.  at  2  (ABCMR  Dec.  29,  2009).  
+The ABCMR found that the Army had properly followed 
+its procedures in not issuing Pillette a medical discharge.  
+Id.  at  3  (citing  Army  Regulation  (“AR”)  635-40).    The 
+ABCMR found that (1) the MEB determined Pillette was 
+fit for retention; (2) the MEB recommended that Pillette 
+be  returned  to  duty;  and  (3)  Pillette  did  not  contest  the 
+MEB’s findings.  Because the MEB found Pillette fit, he 
+was not referred to a Physical Evaluation Board (“PEB”), 
+and without a PEB, Pillette could not have been issued a 
+medical discharge.  The ABCMR also found that Pillette 
+did  not  provide  any  evidence  to  show  that  his  medical 
+condition warranted consideration by a PEB. 
+
+Pillette requested reconsideration of the ABCMR’s de-
+cision three times between 2010 and 2014.  The ABCMR 
+denied all of those requests. 
+
+On  April  8,  2015,  Pillette  filed  a  complaint  in  the 
+Claims  Court  challenging  the  ABCMR’s  decision.    He 
+sought correction of his military record to reflect a disabil-
+ity  retirement  rather  than  an  honorable  discharge  and 
+back  pay  for  retirement  benefits  that  he  would  have 
+received had he been given a disability retirement.   
+
+The government moved to dismiss, or, in the alterna-
+tive,  for  judgment  on  the  administrative  record.    The 
+Claims  Court  denied  the  motion  to  dismiss  and  directed 
+Pillette to file a cross-motion for judgment on the admin-
+istrative record. 
+
+                                            
+1   Generally, applicants to the ABCMR “must file an 
+application  within  three  years  after  an  alleged  error  or 
+injustice  is  discovered  or  reasonably  should  have  been 
+discovered.”  32 C.F.R. § 581.3(d)(2) (2016).  However, as 
+the  ABCMR  did  here,  it  “may  excuse  untimely  filing  in 
+the interest of justice.”  Id.    
+
+PILLETTE v. US 
+
+5 
+
+On  the  cross-motions,  the  Claims  Court  granted  the 
+government’s  motion  and  denied  Pillette’s  motion.    The 
+court held that Pillette “ha[d] not shown that the ABCMR 
+was  arbitrary  or  capricious  in  rejecting  his  claim  for  a 
+disability  retirement  from  the  [A]rmy.”    Decision,  2016 
+WL  4059172,  at  *3.    The  Claims  Court  agreed  with  the 
+ABCMR  that  the  MEB’s  finding  of  fitness  for  retention 
+made  a  PEB  unnecessary.    The  court  rejected  Pillette’s 
+argument that the July 1966 Affidavit guaranteed him a 
+PEB as unsupported by authority and a plain reading of 
+the  document.    The  court  held  that  Pillette’s  argument 
+that the Army would have reached a different conclusion 
+regarding  his  fitness  for  duty  if  it  had  completed  his 
+medical care was waived because it was not raised at the 
+ABCMR.    The  court  also  noted  that  Pillette  had  not 
+“shown  how  [this]  calls  into  question  the  MEB’s  conclu-
+sion or the ABCMR’s affirmance of it.”  Id. 
+
+The  Claims  Court  also found  that  the  MEB’s  recom-
+mendations were not contradictory.  On the final page of 
+the  report,  the  MEB  recommended  that  Pillette  be 
+“[r]eturned  to  duty.”    S.A.  32.    But  the  report  also  “rec-
+ommended  that  [Pillette]  be  separated  from  the  service 
+which is his desire since he is past his ETS.”  Id. at 31.  
+The court explained “[t]he recommendation in the MEB’s 
+report that [Pillette] be separated from service because he 
+wished  to  be  is  not  germane  to  the  question  actually 
+presented to the MEB, and does not call into question its 
+finding regarding his fitness for duty.”  Decision, at *3.   
+
+Pillette timely appealed to this court.  We have juris-
+
+diction pursuant to 28 U.S.C. § 1295(a)(3) (2012).   
+
+DISCUSSION 
+
+We review a Claims Court decision granting or deny-
+ing  a  motion  for  judgment  on  the  administrative  record 
+without deference, applying the same standard of review 
+that the Claims Court applied.  Roth v. United States, 378 
+F.3d 1371, 1381 (Fed. Cir. 2004).  We will not disturb the 
+
+ 
+6 
+
+   
+
+PILLETTE v. US 
+
+ABCMR’s  decision  unless  “the  decision  is  arbitrary  or 
+capricious,  unsupported  by  substantial  evidence,  or  oth-
+erwise  not  in  accordance  with  law.”    Fisher  v.  United 
+States, 402 F.3d 1167, 1180 (Fed. Cir. 2005).  Generally, 
+arguments not raised before the ABCMR are waived.  See 
+Metz v. United States, 466 F.3d 991, 999 (Fed. Cir. 2006).     
+The  Secretary  of  the  Army,  acting  through  the 
+ABCMR,  “may  correct  any  military  record  . . .  when  the 
+Secretary  considers  it  necessary  to  correct  an  error  or 
+remove  an  injustice.”    10  U.S.C.  §  1552(a)(1).    “The 
+ABCMR  begins  its  consideration  of  each  case  with  the 
+presumption  of  administrative  regularity.”    AR  15-185 
+¶ 2–9 (Mar. 31, 2006).  To overcome this presumption, the 
+“applicant has the burden of proving an error or injustice 
+by a preponderance of the evidence.”  Id. 
+
+A  member  of  the  Army  may  be  retired  with  retired 
+pay  if  the  member  “is  unfit  to  perform  the  duties  of  his 
+office, grade, rank, or rating because of physical disability 
+incurred  while  entitled  to  basic  pay”  under  certain  cir-
+cumstances.  10 U.S.C. § 1201 (1964).  AR 635-40 imple-
+ments  provisions  of  Title  10  relating  to  eligibility  and 
+processing  for  physical  disability  benefits.    AR  635-40A 
+§ 1  ¶  1  (Aug.  13, 1957); AR  635-40  ¶ 1–1 (Feb.  8,  2006).  
+The “Army regulations in effect at the time of [Pillette’s] 
+discharge  in  [1966],  rather  than  current  regulations, 
+guide our analysis.”  Chambers, 417 F.3d at 1227.   
+
+Pillette argues that the Claims Court erred in denying 
+his  motion  for  judgment  on  the  administrative  record.  
+Pillette asserts that various provisions of AR 635-200 and 
+the  July  1966  Affidavit  demonstrate  that  his  medical 
+condition warranted the completion of his medical treat-
+ment  prior  to  his  discharge  and  evaluation  by  a  PEB.  
+Pillette contends that the July 1966 Affidavit guaranteed 
+him  a  PEB.    Pillette  also  contends  that  an  MEB  should 
+not have been convened and that AR 635-40 did not apply 
+to  him  when  the  MEB  convened  because  the  Army  had 
+
+PILLETTE v. US 
+
+7 
+
+retained him past his June 7, 1966 ETS.  Pillette further 
+asserts that his retention in the army for 45 days past his 
+scheduled  ETS  without  his  prior  consent  violated  his 
+rights under AR 635-200.2   
+
+The government responds that the Claims Court did 
+not  commit  reversible  error.    The  government  contends 
+that the ABCMR’s decision was not arbitrary, capricious, 
+unsupported by substantial evidence, or contrary to law. 
+
+We agree with the government that the Claims Court 
+did  not  err.    The  ABCMR’s  determination  that  Pillette 
+received  proper  processing  under  AR  635-40  was  not 
+arbitrary  and  capricious  or  unsupported  by  substantial 
+evidence.  When Pillette’s case was referred to the MEB, 
+it was charged with evaluating his condition and recom-
+mending an appropriate disposition.  See AR 635-40A § III 
+¶ 10 (Aug. 13, 1957).  Because the MEB found him fit for 
+duty,  referral  to  a  PEB  was  not  required.    Indeed,  only 
+“[w]hen the approved action of the [MEB] d[id] not provide 
+for either final medical disposition of the case (e.g., return 
+to duty . . . ) or deferment of disposition pending transfer 
+or further observation, [was] the case . . .  referred to the 
+jurisdiction  of  a  [PEB]  for  disposition.”    Id.  (emphasis 
+added);  see  also  id.  §  IV  ¶  19  (stating  cases  of  members 
+who appeared to be “medically unfit for active duty” were 
+“referred  to  a  [PEB]  for  disposition”).    The  MEB  recom-
+mended that Pillette be returned to duty, a final medical 
+disposition from which Pillette did not appeal.  The Army 
+thus followed proper procedure in not referring Pillette to 
+a PEB. 
+
+                                            
+2   Pillette appears to cite currently effective AR 635-
+200.  Our analysis, however, is based on the regulation in 
+effect at the time of Pillette’s ETS and discharge in 1966.  
+See Chambers, 417 F.3d at 1227. 
+
+ 
+8 
+
+   
+
+PILLETTE v. US 
+
+Although  we  question  whether  the  ABCMR  properly 
+applied  the  version  of  AR  635-40  that  was  in  effect  in 
+1966,3  to  the  extent  the  ABCMR  incorrectly  applied  the 
+current AR 635-40, any such error was harmless.  Under 
+both  the  Army  regulations  in  effect  now  and  those  in 
+effect  in  1966,  the  procedure  for  evaluating  a  soldier’s 
+medical  fitness  for  duty  and  eligibility  for  a  disability 
+retirement is substantially the same in relevant part.  An 
+MEB  must  first  find  a  soldier  medically  unfit  before 
+referral to a PEB.  AR 635-40A § III ¶ 10, § IV ¶ 19 (Aug. 
+13, 1957); AR 635-40 ¶¶ 4–10, 4–13 (Feb. 8, 2006).  Upon 
+referral, a PEB makes disability findings and recommen-
+dations  that  can  lead  to  a  medical  retirement.    See  AR 
+635-40A § IV ¶ 28 (Aug. 13, 1957); AR 635-40 ¶ 4–19 (Feb. 
+8, 2006). 
+
+Additionally, we can discern no error in the ABCMR’s 
+finding of a lack of evidence that Pillette’s medical condi-
+tion warranted consideration by a PEB.  Compliance with 
+AR 635-200 did not require Pillette to be evaluated by a 
+PEB.  See AR 635-200 § IV ¶ 14(d) (Apr. 8, 1959) (explain-
+ing that a member “may, with his consent, be retained in 
+service  beyond  the  expiration  of  his  period  of  service  in 
+order that he may complete the required medical care or 
+hospitalization  and,  if  required,  be  brought  before  a 
+[PEB]”  (emphasis  added)  (citing  AR  635-40A));  AR  635-
+200 ¶ 2–6 (July 15, 1966) (same).  As contemplated by AR 
+635-200,  the  Army  retained  Pillette  past  his  scheduled 
+ETS to continue providing him with medical care and had 
+him sign the July 1966 Affidavit consenting to his reten-
+tion.  See AR 635-200 § IV ¶ 14(d) (Apr. 8, 1959); AR 635-
+200 ¶  2–6  (July  15, 1966).    Although  Pillette  signed  the 
+
+                                            
+3   Compare Pillette, No. AR20090010260, slip op. at 
+3, with AR 635-40 ¶¶ 4–9, 4–10 (Feb. 8, 2006); compare In 
+re  Pillette,  No.  AR20100009820,  slip  op.  at  3  (ABCMR 
+Sept. 21, 2010), with AR 635-40 ¶ 3–2(b)(1) (Feb. 8, 2006). 
+
+PILLETTE v. US 
+
+9 
+
+July  1966  Affidavit  45  days  after  his  scheduled  ETS, 
+there was no harm to Pillette’s eligibility for a disability 
+retirement as a result of this delay.  See AR 635-200 § IV 
+¶ 14(d) (Apr. 8, 1959); AR 635-200 ¶ 2–6 (July 15, 1966).   
+We also do not agree with Pillette’s contentions that 
+the  MEB  was  improperly  convened  and  that  AR  635-40 
+did  not  apply  to  him  when  it  was  convened.    Pillette 
+consented to his retention on active duty past his sched-
+uled  ETS  “for  the  purpose  of  continuing  medical  care  or 
+hospitalization  and,  if  eligible,  subsequent  separation  or 
+retirement  for  physical  disability.”    S.A.  8.    AR  635-40 
+implemented Title 10 eligibility and processing for physi-
+cal  disability  benefits and  specified  that members  of  the 
+Regular  Army,  like  Pillette,  “will  be  processed  under 
+these regulations” except in situations inapplicable here.  
+AR 635-40A § 1 ¶¶ 1, 2 (Aug. 13, 1957).  Thus, AR 635-40 
+applied  to  Pillette  when  the  MEB  was  convened  and  he 
+has shown no impropriety by the MEB.   
+
+Furthermore,  we  do  not  agree  with  Pillette  that  the 
+July 1966 Affidavit guaranteed him a PEB.  This affidavit 
+appears to be a form affidavit used by the Army to con-
+firm a service member’s intent to remain in the service or 
+be discharged.  Compare S.A. 8, with AR 635-200 § IV ¶ 
+14(d)(5)  (Apr.  8,  1959)  and  AR  635-200  ¶  2–6  (July  15, 
+1966).    The  July  1966  Affidavit  made  clear  that  Pillette 
+would  be  considered  for  “retirement  for  physical  disabil-
+ity” “if eligible.”  S.A. 8 (emphasis added).  The affidavit 
+did not mention a PEB, or indicate that it superseded the 
+provisions  of  AR  635-40.    As  discussed  above,  we  can 
+discern  no  error  in  the  ABCMR’s  finding  that  the  Army 
+properly processed Pillette under AR 635-40.  Nothing in 
+the  affidavit  or  any  authority  of  which  we  are  aware 
+supports  Pillette’s  position  that  the  affidavit  guaranteed 
+him a PEB. 
+
+Finally,  we  find  no  reversible  error  in  the  Claims 
+Court’s holding that Pillette waived his argument regard-
+
+ 
+10 
+
+   
+
+PILLETTE v. US 
+
+ing  the  Army’s  alleged  failure  to  complete  his  medical 
+care prior to his discharge.  Pillette does not contest the 
+waiver holding before this court, and the ABCMR did not 
+pass  on  this  issue.    In  any  event,  as  the  Claims  Court 
+noted, Pillette “has not shown how [this] calls into ques-
+tion the MEB’s conclusion or the ABCMR’s affirmance of 
+it.”  Decision, 2016 WL 4059172, at *3. 
+
+In sum, Pillette has not shown that the ABCMR erred 
+in holding that he had not established any error or injus-
+tice in his military record.  Pillette is therefore not enti-
+tled to correction of his military record.     
+
+CONCLUSION 
+
+We  have  considered  Pillette’s  remaining  arguments 
+and conclude that they are without merit.  For the forego-
+ing reason, the decision of the Claims Court is affirmed. 
+
+AFFIRMED 
+
+COSTS 
+
+No costs.     
+
+

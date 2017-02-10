@@ -1,0 +1,208 @@
+ 
+
+NOTE:  This disposition is nonprecedential. 
+
+United States Court of Appeals 
+
+for the Federal Circuit 
+
+______________________ 
+
+ANTONIO JOHNSON, 
+
+Plaintiff-Appellant 
+
+UNITED STATES, 
+Defendant-Appellee 
+
+______________________ 
+
+2016-2032 
+
+______________________ 
+
+ 
+v. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appeal  from  the  United  States  Court  of  Federal 
+Claims  in  No.  1:14-cv-01236-LJB,  Senior  Judge  Lynn  J. 
+Bush. 
+
+______________________ 
+
+Decided: January 18, 2017 
+______________________ 
+
+ANTONIO JOHNSON, LaGrange, KY, pro se. 
+ 
+ANTONIA  RAMOS  SOARES,  Commercial  Litigation 
+Branch,  Civil  Division,  United  States  Department  of 
+Justice,  Washington,  DC,  for  defendant-appellee.  Also 
+represented  by  BENJAMIN  C.  MIZER,  ROBERT  E. 
+KIRSCHMAN, JR., MARTIN F. HOCKEY, JR. 
+______________________ 
+
+Before DYK, REYNA, and STOLL, Circuit Judges. 
+
+2 
+
+PER CURIAM. 
+
+  JOHNSON v. US 
+
+Antonio Johnson appeals the judgment of the Court of 
+Federal Claims dismissing his claim that he was wrong-
+fully  discharged  from  the  United  States  Army  and  up-
+holding  a  decision  by  the  Army  Board  for  Correction  of 
+Military  Records  (“ABCMR”)  not  to  convert  Johnson’s 
+involuntary  discharge  for  disciplinary  reasons  into  a 
+disability retirement. We affirm. 
+
+BACKGROUND 
+
+Johnson’s military service began with his enlistment 
+in the Army on January 29, 1980. He received an involun-
+tary  administrative  “general  discharge  under  honorable 
+conditions” on December 13, 1988. In the two years lead-
+ing  up  to  his  discharge,  Johnson  was  disciplined  for 
+various instances of misconduct, including a conviction for 
+driving  under  the  influence,  nonpayment  of  debts  and 
+court judgments, and for being absent without leave.  
+
+In connection with his discharge, Johnson received a 
+comprehensive  medical  evaluation  on  April  21,  1988. 
+Records  from  this  evaluation  indicated  that  Johnson 
+complained  of  a  “[r]ecent  gain  or  loss  of  weight”  and 
+“[r]ecurrent back pain,” but that he suffered from no other 
+ailments  besides  those  he  had  identified.  Appx225–26. 
+Handwritten annotations also reflected that Johnson was 
+hospitalized in 1984 following a motor vehicle accident in 
+which he injured his back.  Clinical evaluations of John-
+son concluded that he was physically qualified for separa-
+tion  and  that  he  had  the  mental  capacity  to  understand 
+and participate in his discharge proceedings. Four weeks 
+after  being  medically  evaluated  for  military  discharge, 
+Johnson  was  hospitalized  for  eighteen  days  due  to  chest 
+pain and given a diagnosis of pleurodynia secondary to a 
+viral  infection.  He  left  the  hospital  on  June  6,  1988, 
+“markedly improved,” with instructions that he be given 
+limited duty for one week. Appx163. 
+
+JOHNSON v. US 
+
+3 
+
+In  2013,  Johnson  filed  an  application  with  the 
+ABCMR,  asserting  that  he  was  entitled  to  a  medical 
+disability discharge retirement in 1988. He requested that 
+his  military  discipline  records  be  expunged,  his  general 
+discharge voided, and that he be awarded medical disabil-
+ity  retirement.  The  ABCMR  denied  his  application  on 
+October 15, 2014.  
+
+Johnson then filed a complaint in the Court of Federal 
+Claims  alleging  that  he  had  been  wrongfully  discharged 
+from  the  Army  and  that  he  was  entitled  to  “physical 
+disability retirement with pay.” Appx7. The court granted 
+the  government’s  motion  to  dismiss  Johnson’s  wrongful 
+military discharge claim as jurisdictionally barred by the 
+six-year limitations period of 28 U.S.C. § 2501. The court 
+also granted the government’s motion for judgment on the 
+administrative record with respect to Johnson’s disability 
+retirement  claim,  finding  that  the  ABCMR’s  denial  of 
+Johnson’s  application  was  neither  arbitrary,  capricious, 
+nor  unsupported  by  substantial  evidence.  Johnson  ap-
+pealed. We have jurisdiction under 28 U.S.C. § 1295(a)(3). 
+
+DISCUSSION 
+
+We review a dismissal for lack of subject matter juris-
+diction de novo. See Shoshone Indian Tribe of Wind River 
+Reservation,  Wyo.  v.  United  States,  672  F.3d  1021,  1029 
+(Fed.  Cir.  2012).  “We  review  a  decision  of  the  Court  of 
+Federal  Claims  granting  or  denying  a  motion  for  judg-
+ment on the administrative record without deference . . . 
+[and] will not disturb the decision of the [ABCMR] unless 
+it is arbitrary, capricious, contrary to law, or unsupported 
+by substantial evidence.” Chambers v. United States, 417 
+F.3d 1218, 1227 (Fed. Cir. 2005).  
+
+Our  cases  make  clear  that  a  claim  for  wrongful  dis-
+charge  accrues  at  the  time  the  discharge  occurred.  See 
+Martinez v. United States, 333 F.3d 1295, 1303 (Fed. Cir. 
+2003) (en banc). Johnson’s wrongful discharge claim was 
+filed in the Court of Federal Claims more than two dec-
+
+4 
+
+  JOHNSON v. US 
+
+ades after his discharge from the Army in 1988. His claim 
+is therefore barred by the six-year statute of limitations of 
+28 U.S.C. § 2501. 
+
+As for Johnson’s claim of entitlement to military disa-
+bility  retirement  benefits,  we  perceive  no  error  in  either 
+the analysis of the Court of Federal Claims or that of the 
+ABCMR.  In  order  to  establish  entitlement  to  disability 
+retirement, Johnson was required to show that his service 
+was  “interrupted  . . .  because  of  a  physical  disability 
+incurred or aggravated in service” and that he could “no 
+longer  continue  to  reasonably  perform”  his  duties.  Army 
+Reg.  635–40  ¶  3–2(b)(1)  (Mar.  8,  2006).1  In  finding  that 
+Johnson  did  not  satisfy  this  standard,  the  ABCMR  con-
+sidered Johnson’s medical records, including the medical 
+evaluation  of  Johnson  taken  as  part  of  his  discharge 
+proceedings, which had found him “medically qualified for 
+separation.”  Appx113.  The  ABCMR  accepted  this  as 
+evidence that Johnson was “medically and psychiatrically 
+fit  for  military  service”  at  the  time  of  his  discharge.  Id. 
+The  record  of  Johnson’s  hospitalization  for  chest  pain 
+shortly  after  his  evaluation  does  not  yield  a  different 
+conclusion,  and  Johnson  identifies  no  other  record  that 
+would. To the extent that Johnson alleges on appeal that 
+military personnel misled him or fabricated records, that 
+his  records  are  inaccurate,  or  that  his  discharge  was 
+procedurally flawed, he identifies no evidence that would 
+
+                                            
+1   See also Army Reg. 635–40 ¶ 2–1 (Dec. 13, 1985) 
+(“The mere presence of an impairment does not, of itself, 
+justify a finding of unfitness because of  physical disabil-
+ity.  In  each  case,  it  is  necessary  to  compare  the  nature 
+and  degree  of  physical  disability  present  with  the  re-
+quirements of the duties the member reasonably may be 
+expected  to  perform  because  of  his  or  her  office,  grade, 
+rank, or rating . . . .”). 
+
+JOHNSON v. US 
+
+5 
+
+support  such  allegations.  The  judgment  of  the  Court  of 
+Federal Claims is  
+
+AFFIRMED 
+
+ 
+
+COSTS 
+
+No costs. 
+
+

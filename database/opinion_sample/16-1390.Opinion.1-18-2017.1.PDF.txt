@@ -1,0 +1,439 @@
+ 
+
+NOTE:  This disposition is nonprecedential. 
+
+United States Court of Appeals 
+
+for the Federal Circuit 
+
+______________________ 
+
+ZHEJIANG MEDICINE CO., LTD., ZMC-USA L.L.C., 
+
+Plaintiffs-Appellees 
+
+ 
+v. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+KANEKA CORPORATION, 
+
+Defendant-Appellant 
+______________________ 
+
+2016-1390 
+
+______________________ 
+
+Appeal from the United States District Court for the 
+Southern  District  of  Texas  in  No.  4:11-cv-01052,  Magis-
+trate Judge Mary Milloy. 
+
+______________________ 
+
+Decided:  January 23, 2017 
+
+______________________ 
+
+   BRIAN  ROSENTHAL,  Mayer  Brown  LLP,  Washington, 
+DC,  argued  for  plaintiffs-appellees.  Also  represented  by 
+PAUL  WHITFIELD  HUGHES,  GARY  HNATH;  CHARLES 
+STEPHEN KELLEY, TRENTON MENNING, Houston, TX. 
+ 
+  KEITH  D.  NOWAK,  Carter  Ledyard  &  Milburn  LLP, 
+New  York,  NY,  argued  for  defendant-appellant.  Also 
+represented by WILLIAM F. SONDERICKER; ROBERT MCGEE 
+BOWICK, JR., Raley & Bowick, LLP, Houston, TX. 
+
+______________________ 
+
+ 
+2 
+
+  ZHEJIANG MEDICINE CO., LTD. v. KANEKA CORPORATION 
+
+Before LOURIE, MOORE, and O’MALLEY, Circuit Judges. 
+
+ 
+
+MOORE, Circuit Judge. 
+  Kaneka  Corporation  (“Kaneka”)  appeals  from  the 
+Southern District of Texas’ summary judgment of nonin-
+fringement  of  all  asserted  claims  of  U.S.  Patent 
+No. 7,910,340  (“the  ’340 patent”).    For  the  reasons  dis-
+cussed below, we vacate and remand. 
+BACKGROUND 
+
+ 
+The ’340 patent is directed to an industrial process for 
+producing oxidized coenzyme Q10 (“CoQ10”), an antioxidant 
+used in health supplements.  Kaneka brought suit against 
+Zhejiang  Medicine  Co.,  Ltd.  and  ZMC-USA  LLC  (collec-
+tively,  “ZMC”),  asserting  their  manufacturing  processes 
+infringe one or more claims of the ’340 patent.  The dis-
+pute  centers  on  the  claims’  requirement  of  “oxidizing” 
+reduced CoQ10, as recited in the two independent claims 
+at  issue,  22  and  33.1    The  district  court  originally  con-
+strued  the  term  “oxidizing”  to  have  its  ordinary  and 
+customary  meaning,  rejecting  Kaneka’s  argument  that 
+the  “oxidizing”  term  requires  “increasing  the  rate”  of 
+oxidizing  reduced  CoQ10.    Both  parties  submitted  expert 
+reports  opining  on  whether  ZMC’s  processes  satisfy  the 
+“oxidizing”  limitation  under  the  district  court’s  construc-
+tion. 
+  Meanwhile, in a separate appeal concerning the same 
+patent,  a  panel  of  this  court  construed  the  term  “oxidiz-
+ing” to mean “some action resulting in oxidation.”  Kaneka 
+
+                                            
+1   Claim 22  requires  “oxidizing  thus-obtained  re-
+duced  coenzyme  Q10  to  oxidized  coenzyme  Q10”  and 
+claim 33  requires  “oxidizing  the  extracted  reduced  coen-
+zyme Q10 to oxidized coenzyme Q10.” 
+
+ZHEJIANG MEDICINE CO., LTD. v. KANEKA CORPORATION 
+
+3 
+
+Corp.  v.  Xiamen  Kingdomway  Grp.  Co.,  790  F.3d  1298, 
+1307  (Fed.  Cir.  2015).    Approximately  two  weeks  after 
+Kingdomway  issued,  the  district  court  held  a  status 
+conference  to  address  the  impact  of  the  Kingdomway 
+construction  on  the  proceedings.    At  the  conference, 
+Kaneka  stated  that  its  expert,  Dr. Sherman,  “looked  at 
+the Federal Circuit decision in detail and [ ] has no need 
+to file a revised report.”  J.A. 14895:7–9.  ZMC responded 
+that their expert would like to supplement his report, to 
+which  Kaneka  objected,  arguing  both  its  and  ZMC’s 
+expert reports addressed the issue of active oxidation, as 
+required by Kingdomway.  The district court determined 
+that  ZMC  could  file  a  supplemental  expert  report  by 
+July 16  and  that  Kaneka  could  respond  to  or  depose 
+ZMC’s expert by August 1.  
+July passed and ZMC did not submit a supplemental 
+ 
+expert  report,  and  thus  Kaneka  did  not  respond  to  or 
+depose ZMC’s expert.  Instead, on August 13, ZMC moved 
+for  summary  judgment  of  noninfringement  based  on  the 
+“oxidizing”  limitation.    In  its  motion,  ZMC  argued  that 
+Kaneka  failed  to  show  “what  oxidation,  if  any,  of  coen-
+zyme  Q10  during  ZMC’s  process  is  attributable  to  active 
+oxidation above the level of passive oxidation that natural-
+ly  occurs  throughout  ZMC’s  process.”    J.A. 14821.    ZMC 
+also  argued  that  Dr. Sherman’s  expert  opinion  of  in-
+fringement, based on the district court’s pre-Kingdomway 
+claim construction of “oxidizing,” was now irrelevant and 
+could not be relied on by the court.  
+ 
+The district court agreed with ZMC’s interpretation of 
+the  Kingdomway  construction,  determining  that  “oxidiz-
+ing” required “some amount of oxidation, in excess of that 
+which  occurs  naturally  from  exposure  to  ambient  air.”  
+J.A. 48.  It interpreted ZMC’s criticism of Dr. Sherman’s 
+report on the “oxidizing” limitation as a motion to exclude 
+and  granted  it,  agreeing  his  opinion  was  “irrelevant” 
+based  on  a  “now  incorrect”  construction.    J.A. 46–51.    It 
+denied  Kaneka’s  alternative  request  to  supplement 
+
+ 
+4 
+
+  ZHEJIANG MEDICINE CO., LTD. v. KANEKA CORPORATION 
+
+Dr. Sherman’s report.  The district court held that, based 
+on the record before it, Kaneka failed to provide evidence 
+that  the  oxidation  in  ZMC’s  manufacturing  process  was 
+the result of ZMC’s active processes to oxidize CoQ10, as 
+compared  to  passive  oxidation,  and  granted  summary 
+judgment  of  noninfringement.    Kaneka  timely  appealed.  
+We have jurisdiction under 28 U.S.C. § 1295(a)(1).   
+
+DISCUSSION 
+
+For issues not unique to patent law, we apply the law 
+of the regional circuit where this appeal would otherwise 
+lie, which in this case is the Fifth Circuit.  LaserDynam-
+ics, Inc. v. Quana Comput., Inc., 694 F.3d 51, 66 (Fed. Cir. 
+2012).    We  review  evidentiary  rulings  for  an  abuse  of 
+discretion.  Id.  We review decisions on motions for sum-
+mary  judgment  de  novo.    Id.    Summary  judgment  is 
+appropriate when, drawing all justifiable inferences in the 
+nonmovant’s  favor,  “the  movant  shows  that  there  is  no 
+genuine dispute as to any material fact and the movant is 
+entitled to judgment as a matter of law.”  Fed. R. Civ. P. 
+56(a); Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255 
+(1986). 
+
+A.  Claim Construction of “Oxidizing” 
+
+At  the  outset,  Kaneka  argues  the  district  court  “im-
+properly  changed”  our  construction  of  “oxidizing”  in 
+Kingdomway from “some action resulting in oxidation” to 
+an action that increases the amount of oxidation above a 
+baseline of passive oxidation.  It argues the district court’s 
+changed  construction 
+it  to  erroneously  exclude 
+Dr. Sherman’s  expert  report  and  grant  summary  judg-
+ment of noninfringement.  We agree in part. 
+
+led 
+
+In Kingdomway, we held “oxidation requires an active 
+step.”  790 F.3d at 1305.  We explained that “because the 
+claims  affirmatively  recite  the  step  of  ‘oxidizing,’  ‘oxidiz-
+ing’ cannot be interpreted as doing nothing, or to simply 
+allow oxidation to occur on its own.”  Id.  This construc-
+
+ZHEJIANG MEDICINE CO., LTD. v. KANEKA CORPORATION 
+
+5 
+
+tion “requir[es] active oxidation during the oxidation step 
+.  .  .  but  does  not  exclude  passive  oxidation  during  other 
+steps.”  Id. at 1306.2 
+
+The  district  court  interpreted  our  construction  to 
+mean “some amount of oxidation, in excess of that which 
+occurs  naturally  from  exposure  to  ambient  air,  must  be 
+caused by an ‘active step’ in the coenzyme Q10 manufac-
+turing  process.”    J.A. 48  (emphasis  added).    This  is  not 
+precise.    The  only  bounds  provided  by  Kingdomway  on 
+what  constitutes  an  “active  step”  or  “active  oxidation”  is 
+that  it  does  not  require  use  of  an  oxidizing  agent.    790 
+F.3d at 1306.  The opinion emphasizes that there must be 
+“some  action  resulting  in  oxidation”;  the  oxidizing  step 
+“cannot  be  interpreted  as  doing  nothing,  or  to  simply 
+allow  oxidation  to  occur  on  its  own.”    Id.  at 1305–06 
+(emphasis added).  But the opinion does not state that to 
+be an active step, the oxidation rate must be greater than 
+that of passive oxidation.  And it is silent as to any degree 
+of oxidation that would be necessary to qualify as active 
+oxidation.      The  opinion  simply  requires  that  there  be 
+some action that results in oxidation.  Id. at 1307. 
+
+A review of the district court’s construction of “oxidiz-
+ing”  on  appeal  in  Kingdomway  frames  the  Kingdomway 
+construction.  There, the district court held that “oxidiz-
+ing” required, inter alia, “active conversion of the reduced 
+CoQ10  into  oxidized  CoQ10,”  which  was  supported  by  the 
+specification’s  examples  using  an  oxidizing  agent  in  the 
+oxidizing  step.    Kaneka  Corp.  v.  Kingdomway  Grp.  Co., 
+No.  2:11-cv-02389,  2013  WL  4647299,  at *8  (C.D. Cal. 
+July  24,  2013),  aff’d  in  part,  vacated  in  part,  790  F.3d 
+
+                                            
+2   The  question  whether  the  term  “oxidizing”  re-
+quires  an  oxidizing  agent  was  before  the  prior  panel  of 
+this court, and we are bound by their decision that it does 
+not.  See id.  Thus, it is not a decision that we can review. 
+
+ 
+6 
+
+  ZHEJIANG MEDICINE CO., LTD. v. KANEKA CORPORATION 
+
+1298.  In adopting its “active conversion” construction, the 
+district  court  rejected  an  alternative  proposed  construc-
+tion  that  “oxidizing”  means  “‘increasing  the  rate’  of  con-
+version to oxidized CoQ10.”  Id. at *7–8.  The district court 
+reasoned that “[w]ithout a baseline reference for compari-
+son,  a  person  of  skill  in  the  art  cannot  know  whether  a 
+rate of conversion is increased,” making such a construc-
+tion “too vague to adopt.”  Id.  at *8. 
+
+On appeal, we “agree[d] that oxidation requires an ac-
+tive  step,”  but  held  “it  does  not  require  the  use  of  an 
+oxidizing agent.”  Kingdomway, 790 F.3d at 1305–06.  The 
+opinion  does  not  place  additional  qualifications  on  what 
+must occur to be an “active step.”  And although discussed 
+in  briefing  to  this  court,  see  Appellees’  Br. 46–47,  King-
+domway, No. 14-1373 (Fed. Cir. Aug. 6, 2014), the King-
+domway  court  did  not  require  “increased  oxidation”  “in 
+excess  of  that  which  occurs  naturally  from  exposure  to 
+ambient air.”  See J.A. 48. 
+
+Against  this  backdrop,  we  consider  Kaneka’s  argu-
+ments  that  the  district  court  (1) abused  its  discretion  in 
+excluding  Mr. Sherman’s  expert  report  and  (2) erred  in 
+granting ZMC’s motion for summary judgment of nonin-
+fringement.    We  affirm  the  district  court’s  exclusion  of 
+portions  of  Mr. Sherman’s  expert  report  and  vacate  the 
+district  court’s  grant  of  summary  judgment  of  nonin-
+fringement.   
+
+B.  Exclusion of Dr. Sherman’s Expert Report on In-
+
+fringement 
+
+Kaneka argues the district court abused its discretion 
+in  excluding  the  portions  of  Dr. Sherman’s  expert  report 
+regarding  the  “oxidizing”  limitation  and  denying  its 
+
+ZHEJIANG MEDICINE CO., LTD. v. KANEKA CORPORATION 
+
+7 
+
+alternative  request  to  supplement  its  expert  report.3    It 
+argues  Dr. Sherman’s  report  sufficiently  embraces  the 
+Kingdomway  construction  of  “oxidizing”  and  “plainly 
+identifies and describes the action taken by ZMC during 
+its  manufacturing  process  that  results  in  oxidation.”  
+Appellant’s Br. 31. 
+
+As  discussed  supra,  we  agree  with  Kaneka  that  the 
+district  court  misinterpreted  the  Kingdomway  construc-
+tion.  The district court required Dr. Sherman’s report to 
+address  more  than  was  necessary  under  Kingdomway.  
+See  J.A. 50  (criticizing  Dr. Sherman’s  report  for  not  ad-
+dressing whether ZMC’s processes “actually do cause any 
+amount of oxidation, beyond that which occurs naturally, 
+as a result of the microbial cells’ exposure to ambient air”) 
+(emphasis added).  We, thus, need not decide whether it 
+would  have  been  an  abuse  of  discretion  to  exclude 
+Dr. Sherman’s  opinions  regarding  the  “oxidizing”  limita-
+tion  under  the  district  court’s  initial  interpretation  of 
+Kingdomway.  
+
+  We also decline to assess Dr. Sherman’s report in the 
+first instance to determine the relevance of his opinions in 
+light of our claim construction conclusions.  We leave that 
+question, as well as the question of whether to allow one 
+or  both  parties’  experts  an  opportunity  to  supplement 
+their reports in response to our opinion.   
+
+                                            
+3   Kaneka also appeals several of the district court’s 
+evidentiary  rulings  unrelated  to  the  court’s  grant  of 
+summary  judgment.    Kaneka  argues  the  district  court 
+erred  in  (1) denying  its  motion  to  compel  test  results 
+relating to a different limitation; (2) excluding testimony 
+regarding  that  limitation;  and  (3) excluding  testimony  of 
+its damages expert.  Because these issues do not affect the 
+summary  judgment  entered  by  the  district  court,  we 
+decline to review them. 
+
+ 
+8 
+
+  ZHEJIANG MEDICINE CO., LTD. v. KANEKA CORPORATION 
+
+C.  Grant of Summary Judgment of Noninfringement  
+Even  without  Dr.  Sherman’s  report,  Kaneka  argues 
+that ample evidence precluded the district court’s grant of 
+summary judgment of noninfringement.  We agree. 
+
+The district court determined, viewing the evidence in 
+the  light  most  favorable  to  Kaneka,  that  “no  reasonable 
+fact finder could conclude that the oxidation step in ZMC’s 
+process  results  from  an  ‘active  step,’”  as  required  by 
+Kingdomway.    J.A. 53.    It  explained,  “Kaneka  has  not 
+produced  any  evidence  to  show  that  the  oxidation  levels 
+would have been different, if . . . ZMC had taken no action 
+at all.”  J.A. 54.  Here, the district court’s misinterpreta-
+tion of the Kingdomway construction marred its analysis.  
+To meet the “oxidizing” limitation, ZMC’s processes need 
+not produce a “different” rate of oxidation.  There simply 
+must  be  “some  action  resulting  in  oxidation.”   Kingdom-
+way,  790  F.3d  at 1307.    The  Kingdomway  court  simply 
+required that the oxidation occurred via an “active step.” 
+
+Evidence  showing  that  the  oxidation  achieved  from 
+ZMC’s active steps is greater than passive oxidation is one 
+way  in  which  Kaneka  could  support  its  infringement 
+theory—and  possibly  the  most  persuasive  way—but  this 
+level  of  evidence  is  not  necessary  to  show  infringement.  
+Particularly  at  the  summary  judgment  stage,  the  court 
+must  focus  its  inquiry  on  what  a  reasonable  jury  could 
+find,  not  what  evidence  may  be  the  most  compelling.  
+Portions of the district court’s analysis appear to heighten 
+Kaneka’s  burden  to  defend  ZMC’s  motion  for  summary 
+judgment.  See, e.g., J.A. 53 (criticizing Kaneka’s evidence 
+because “it does not show that that oxidation is, in fact, a 
+result of actions by ZMC”) (emphasis added).  The district 
+court’s own concessions that the evidence “might suggest 
+that  oxidation  occurs”  and  “shows  that  oxidation  could 
+result from ZMC’s actions” indicate that an issue of mate-
+rial fact exists.  See id.  Our review of the evidence con-
+firms our understanding. 
+
+ZHEJIANG MEDICINE CO., LTD. v. KANEKA CORPORATION 
+
+9 
+
+Evidence  in  the  record  details  ZMC’s  manufacturing 
+process  for  making  oxidized  CoQ10,  which  relevantly 
+involves  washing  steps,  drying  the  wet  mass  with  com-
+pressed and pneumatic air, extracting the mass, and post-
+extraction washing.  Two studies conducted by ZMC show 
+that  after  the  first  washing  step,  the  ratio  of  reduced 
+CoQ10 to  oxidized  CoQ10 went  from  81.1%  to  26.9% (first 
+study)  and  88.5%  to  55.6%  (second  study).    After  the 
+drying  step,  the  same  data  shows  the  ratio  of  reduced 
+CoQ10 to  oxidized  CoQ10 went  from  26.9%  to  21.3% (first 
+study) and 55.6% to 18.2% (second study).  Both of these 
+steps  are  active  process  steps.    A  ZMC  witness  testified 
+that  the  pneumatic  drying  step  occurs  in  an  enclosed 
+container.    This  evidence  collectively  raises  an  issue  of 
+material  fact  concerning  whether  ZMC’s  washing  and 
+drying  steps,  during  which  59.8–70.3%  of  the  reduced 
+CoQ10 became oxidized, constitute “some action resulting 
+in oxidation” as required by claim 22.  Kingdomway, 790 
+F.3d  at 1307.    The  question  is  not  whether  these  steps 
+would  have  caused  more  or  less  oxidation  than  passive 
+oxidation.  The question is whether these are active steps 
+resulting in oxidation.   
+
+Claim 33  requires  the  “oxidizing”  step  be  performed 
+on extracted reduced CoQ10.  The same ZMC data shows 
+that after the final post-extraction washing step, the ratio 
+of reduced CoQ10 to oxidized CoQ10 went from 16.7% (first 
+study)  and  17.5%  (second  study)  to  0%,  meaning  the 
+CoQ10 became fully oxidized.  ZMC’s expert, in discussing 
+a  separate  limitation  not  at  issue  here  requiring  an  oxi-
+dizing  agent,  conceded  that  a  “source  of  oxidation”  that 
+occurs in ZMC’s steps is oxygen, including from “ambient 
+air  dissolved  in  solutions.”    J.A. 4539  ¶ 157.    Evidence 
+that (1) ZMC washes extracted reduced CoQ10, (2) oxygen 
+dissolved in solutions used by ZMC is a “source of oxida-
+tion,” and (3) ZMC’s CoQ10 is fully oxidized after this step 
+is  complete,  raises  an  issue  of  material  fact  of  infringe-
+ment. 
+
+ 
+10 
+
+  ZHEJIANG MEDICINE CO., LTD. v. KANEKA CORPORATION 
+
+Under  the  proper  construction,  even  without  consid-
+eration of Dr. Sherman’s opinions, we conclude there is a 
+dispute  of  material  fact  regarding  whether  ZMC’s  pro-
+cesses meet the “oxidizing” limitation in claims 22 and 33.  
+The  district  court  erred  in  granting  ZMC’s  motion  for 
+summary judgment of noninfringement.  
+
+CONCLUSION 
+
+For  the  foregoing  reasons,  we  vacate  the  district 
+court’s  grant  of  summary  judgment  of  noninfringement 
+and remand for further proceedings. 
+
+VACATED AND REMANDED 
+
+COSTS 
+
+Costs to Kaneka. 
+ 
+
+

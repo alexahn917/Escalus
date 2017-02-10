@@ -1,0 +1,447 @@
+\documentclass{article} % For LaTeX2e
+\usepackage{nips15submit_e,times}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+\usepackage{enumitem}
+\setlist{nolistsep}
+%\documentstyle[nips14submit_09,times,art10]{article} % For LaTeX 2.09
+
+
+\title{Escalus: Overview}
+
+\author{
+SangHyeon(Alex) Ahn\\
+E-mail:\texttt{alexahn@jhu.edu} \\
+}
+
+\newcommand{\fix}{\marginpar{FIX}}
+\newcommand{\new}{\marginpar{NEW}}
+
+\nipsfinalcopy % Uncomment for camera-ready version
+
+\begin{document}
+\raggedbottom
+\maketitle
+
+\begin{abstract}
+We construct a predictive model based on machine learning techniques to predict judicial outcomes on cases handled by United States Court of Appeals for the Federal Circuit. We explore various feature engineering methods and learning algorithms to aptly predict the judicial predilections on different cases. Using data from various sources including opinions and oral arguments made for previous cases, sources of origination and dates related with cases, and biographical information on the judges and the lawyers, we build a unique and novel method to forecast each cases'  outcomes. We extract, transform and load relevant data from different sources (web, PDF, and MP3 files) to construct a baseline for our prediction model. We will select the best performing machine learning algorithm by measuring performances through various methods including cross validation and AUC analysis. We further explore uncovering patterns and predilections through PCA and CCA methods.
+\end{abstract}
+
+\section{Introduction}
+Often, judicial decisions are constructively made through careful analysis on each case's circumstances and legal arguments from both parties. Usually, the court's decisions are very hard to predict due to its complexity regarding many different aspects such as past decisions, legal issues, social issues, political issues, personal preferences, individual interpretation and so on. Hence, traditionally, predicting judicial outcomes has been one of the most challenging problems for not only the non-professionals but also the law firms and lawyers. 
+
+However, using a large spectrum of data ranging from historical judicial outcomes to stakeholders' biographical information, we seek to construct an accurate, comprehensive and informative model predicting judicial outcomes even better than humans using technology: machine learning.
+
+Especially, we begin by focusing on cases brought to United States Court of Appeals for the Federal Circuit because they are more technical, more geographically universal, less predictable by human intuition (i.e. having more weight on personal interpretation than legal), data available, and more specific in a broader sense.
+
+We aim to uncover predictability of a judicial outcome, significance of specific feature dimension, patterns and predilections, and historical lessons on judicial decisions through multiple analysis.
+
+\subsection{Problem}
+The hardship of predicting judicial outcomes centers on degree of complexity in delivering decisions by the judges. Granted, the law plays the central role of a decision. However, different oral arguments made by different lawyers significantly effect an outcome, a past decision on similar case creates a strong bias, and each judge's personal preferences make an impact on favoring a decision over another. Therefore, we need to comprehend the problem through a variety of dimensions including case information, lawyer's and judges' biographical information (personal preferences), past decisions, text and oral arguments and more. For a baseline feature composition we include the following aspects: Case Information, Case Opinions, Case Oral Arguments, Lawyer Biographical Information, and Judge Biographical Information.
+
+\subsection{Solution}
+We train a model using appropriate machine learning algorithm using constructed data instances of the past cases (labeled instances).\\
+
+We predict an outcome of an (unlabeled) case instance using the trained model.\\
+
+We provide specific feature dimensions that cause the most variance in terms of decision outcome (PCA).\\
+
+\subsection{Approach}
+
+\textbf{ETL:}
+\begin{enumerate}
+
+\item Extract: construct a relational database from various sources (web, PDF, and MP3 files) by extracting relevant features.\\
+
+\item Transform: script an autonomous program to convert raw data into relevant feature spaces and combine into a full case instance.\\
+
+\item Load: Sample Train/Development/Test data samples to train, construct, and test a model to predict judicial outcomes.\\
+\end{enumerate}
+
+\textbf{Attorney's Win Rate}
+We calculate the win rate of an attorney's prior several years before a case is argued. For each case, we make an update to the case's attorney's number of wins/losses on both sides of appeal. Calculation efficiency: $O(N)$.
+
+\textbf{Trial Attorney}
+We need to be able to identify which attorneys defended for both parties of appeal court at the trial court. This will be quite instructive for us to capture data on the lawyers and law firms who handled the underlying case at trial. We will utilze the resources for this particular information from websites (\url{<https://www.plainsite.org>}), and using Queries.
+
+\textbf{Rule 36}
+The most straightforward method we can use to determine if a Federal Circuit Rule 36 Judgment involves a patent dispute, and if so, what patents are involved, is to search for the underlying District Court opinion using one of several websites offering free, comprehensive access to federal court decisions, or summaries of such decisions, such as 
+\begin{enumerate}
+\item Court Listener's RECAP service (\url{<https://www.courtlistener/recap/>})
+\item Justia (\url{<https://dockets.justia.com>})
+\item Law360 (\url{<https://www.law360.com/advanced_search/cases or https://www.law360.com/advanced_search>})
+\item Leagle (\url{<http://www.leagle.com/casesearch?casename=&citation=&anyword=&dateon=&qsearchsubmit=1>})
+\item Plainsite (\url{<https://www.plainsite.org/cases/index.html>})
+\end{enumerate}
+ So, for example, if we wanted to find out if the Rule 36 Judgment in the Healthtrio v. Aetna decision referenced above involved a patent dispute and if so, which patents, we could search for the names of the parties (Healthtrio and Aetna), Federal Circuit case number (2016-1034) and/or District Court case number (1:12-cv-03229) using any of the 5 websites listed above, and we would quickly determine that this is a patent case, and the numbers of the 10 patents at issue in the case.
+
+Once we determine the patent numbers involved in each of the the Federal Circuit's Opinions and Rule 36 Judgments on appeal from District Courts, we should export those patent numbers to our database.  The task then becomes very simple to capture the remaining data on these patents that we are interested in analyzing, because the United States Patent \& Trademark Office (USPTO) website has an excellent search engine (\url{<http://patft.uspto.gov/netahtml/PTO/search-bool.html>}) that allows you to search for patents using the patent number and then capture information about the patent from any of the 56 different data fields into which every patent is divided (\url{<http://patft.uspto.gov/netahtml/PTO/help/helpflds.htm#Current_US_Class/SubClass>}).  For example, if we wanted to search for the 6,772,132 patent referenced above in the Trading Technologies, Intl v. CQG, Inc. opinion issued by the Federal Circuit on January 18, 2017, we would use the USPTO search engine and input the patent number 6,772,132 in the field "Term 1" and then select "Patent Number" from the drop down menu in "Field 1."  This search will take you directly to the specified patent on the USPTO website, where we can then export all the data fields from the patent that we need.
+
+\textbf{PTAB}
+We identify the patents that have been previously challenged and retrieve relevant information. \url{< https://ptab.uspto.gov/#/login.>}
+
+\pagebreak
+
+\section{Data Model}
+\vspace*{-1pt}
+Machine Learning algorithm and prediction model description.
+
+\begin{multicols}{2}
+[
+\subsection{Feature Engineering}
+]
+\vspace*{-1pt}
+\begin{tabular}{l}
+\bf {Judge}\\ 
+\hline \\
+Judge.Identification.Number\\
+Judge.Last.Name\\
+Judge.First.Name\\
+Chief.Judge (Y/N)\\
+Chief.Judge.Dates\\
+Confirmation.Date\\
+Commission.Date\\
+Senior.Status.Start.Date\\
+Termination.Date\\
+Termination.Reason\\
+Prior.Professional.Career.1\\
+Prior.Professional.Career.2\\
+Prior.Professional.Career.3\\
+Birth.year\\
+Place.of.Birth..City.\\
+Place.of.Birth..State.\\
+Race.or.Ethnicity\\
+Gender\\
+President.name\\
+Party.Affiliation.of.President\\
+Renominating.President.name\\
+Party.Affiliation.of.Renominating.President\\
+Nomination.Date.Senate.Executive.Journal\\
+ABA.Rating\\
+Name.of.School\\
+Degree\\
+Degree.year\\
+Name.of.School..2.\\
+Degree..2.\\
+Degree.year..2.\\
+Name.of.School..3.\\
+Degree..3.\\
+Degree.year..3.\\
+\end{tabular}
+
+\begin{tabular}{l}
+\bf{Lawyer}\\ 
+\hline \\
+Lawyer.Last.Name\\
+Lawyer.First.Name\\
+Birth.year\\
+Place.of.Birth..City.\\
+Place.of.Birth..State.\\
+Birth.year\\
+Race.or.Ethnicity\\
+Gender\\
+Name.of.School\\
+Degree\\
+Degree.year\\
+Name.of.School..2.\\
+Degree..2.\\
+Degree.year..2.\\
+Name.of.School..3.\\
+Degree..3.\\
+Degree.year..3.\\
+Practice.Areas\\
+State.Bars.Admitted\\
+State.Bar.Admission.Dates\\
+Total.wins\\
+Total.wins.1.year\\
+%Total.wins.3.year\\
+Total.losses\\
+Total.losses.1.year\\
+%Total.losses.3.year\\
+Total.win.percentage\\ % (wins/total federal circuit cases)
+Total.win.percentage.1.year\\ % (wins/total federal circuit cases)
+%Total.win.percentage.3.year\\ % (wins/total federal circuit cases)
+\end{tabular}
+
+\pagebreak
+\begin{tabular}{l}
+\bf{Opinion}\\ 
+\hline \\
+Law Type\\
+Tribute Type\\
+Date of appeal (filed)\\
+Writing Judge\\
+Writing Judge Law Clerk\\
+Harmless Error\\
+Reversible Error\\
+Per Curiam\\
+Rule.36\\
+\end{tabular}
+
+\begin{tabular}{l}
+\bf{District/Trial Court}\\ 
+\hline \\
+District Court\\
+District Court No.\\
+District Court Judge\\
+District Court Jury\\
+Date of District Court Decision\\
+Trial.Appellent.Attorney\\
+Trial.Appellent.Attorne.yTotal.wins\\
+Trial.Appellent.Attorney.Total.wins.1.year\\
+Trial.Appellent.Attorney.Total.losses\\
+Trial.Appellent.Attorney.Total.losses.1.year\\
+Trial.Appellent.Attorney.Total.win.percentage\\ % (wins/total federal circuit cases)
+Trial.Appellent.Attorney.Total.win.percentage.1.yr\\ % (wins/total federal circuit cases)
+Trial.Appellee.Attorney\\
+Trial.Appellee.Attorne.yTotal.wins\\
+Trial.Appellee.Attorney.Total.wins.1.yr\\
+Trial.Appellee.Attorney.Total.losses\\
+Trial.Appellee.Attorney.Total.losses.1.yr\\
+Trial.Appellee.Attorney.Total.win.percentage\\ % (wins/total federal circuit cases)
+Trial.Appellee.Attorney.Total.win.percentage.1.yr\\ % (wins/total federal circuit cases)
+\end{tabular}
+
+
+\begin{tabular}{l}
+\bf{Timeline}\\ 
+\hline \\
+
+Date of Complaint\\
+Date of Notice of Appeal\\
+Date of Argument\\
+Date of Decision\\
+Time to Decision \\% (Derived Metric \\% (months) = Date of Decision - Date of Argument)\\
+
+\end{tabular}
+
+
+\begin{tabular}{l}
+\bf{Case Information}\\ 
+\hline \\
+Fed. Cir. Case No.\\
+Plaintiff\\
+Defendant\\
+Appellant\\
+Appellant.Attorney.lead\\
+Appellant.Attorney.team\\
+Appellee\\
+Appellee.Attorney.lead\\
+Appellee.Attorney.team\\
+Cross-Appellant\\
+Cross-Appellee\\
+Amicus Curiae\\
+Location \\% (country, state, city) for each party above \\% (see hoovers.com)\\
+Public or Private for each party above \\% (see hoovers.com)\\
+Sales for each party above \\% (see hoovers.com)\\
+Stock Ticker Symbol for each public party above \\% (see nasdaq.com)\\
+Market Cap for each public party above on date before decision \\% (see nasdaq.com)\\
+Market Cap for each public party above on date after decision \\% (see nasdaq.com)\\
+Market Impact of Decision \\% (Derived Metric = Market Cap Post Decision - Market Cap Pre Decision)\\
+% Market Impact of Decision \\% (Derived Metric = Market Impact of Decision/Market Cap Pre Decision*100)\\
+Law Firm for each party above\\
+Declaratory Judgment \\% (Y/N)\\
+Summary Judgment \\% (Y/N)\\
+Summary Judgment Grounds\\
+Monetary Award \\% ($)\\
+Injunction Issued D.Ct. \\% (Y/N)\\
+Market Cap for each public party above on date before D.Ct. Decision \\% (see nasdaq.com)\\
+Market Cap for each public party above on date after D.Ct. Decision \\% (see nasdaq.com)\\
+Market Impact of D.Ct. Decision \\% (Derived Metric = Market Cap Post D.Ct. Decision - Market Cap Pre D.Ct. Decision)\\
+% Market Impact of D.Ct. Decision \\% (Derived Metric = Market Impact of D.Ct. Decision/Market Cap Pre Decision*100)\\
+Pendency of Case \\% (Derived Metric \\% (months) = Date of Decision - Date of Complaint)\\
+Previous Fed. Cir. Appeal \\% (Y/N)\\
+Previous Prevailing Party \\% (if Y to above)\\
+Supreme Court remand \\% (Y/N)\\
+Supreme Court Prevailing Party \\% (if Y to above)\\
+Circuit Judges\\
+Per Curium \\% (Y/N)\\
+En Banc \\% (Y/N)\\
+Recusals\\
+Opinion By\\
+Concur By\\
+Dissent By\\
+Patent Nos.\\
+Patent Law \\% (§ 101, 102, 103)\\
+Judgment \\% (affirm, reverse, remand, vacate, in whole or in part)\\
+\end{tabular}
+
+\pagebreak
+\begin{tabular}{l}
+\bf{Patent}\\ 
+\hline \\
+Applicant City\\
+Applicant Country\\
+Applicant Name\\
+Applicant State\\
+Applicant Type\\
+Application Date\\
+Application Type\\
+Assignee City\\
+Assignee Country\\
+Assignee Name\\
+Assignee State\\
+Assistant Examiner\\
+Attorney or Agent\\
+Cooperative Patent Classification\\
+Current CPC Classification Class\\
+Current US Classification\\
+Government Interest\\
+International Classification\\
+Inventor City\\
+Inventor Country\\
+Inventor Name\\
+Inventor State\\
+Issue Date\\
+Patent Number\\
+Primary Examiner\\
+Priority Filing Date\\
+PTAB Trial Certificate\\
+Re-Examination Certificate\\
+Re-Examination Certificate Date\\
+Referenced By \\%(number of other patents that cite this one)
+Patent References Cited\\ %(number of patents that this patent cites as prior art)\\
+Non-Patent References Cited\\ %(number of non-patent references that this patent cites as prior art)\\
+Total References Cited \\%(Derived Metric = Patent References Cited + Non-Patent References Cited)\\
+Novelty Ratio\\ %(Derived Metric = Referenced By/Total References Cited)\\
+Patent Maturity in Months\\ %(Derived Metric = Issue Date - Priority Filing Date)\\
+Title\\
+Prior Challenge (Y/N)\\
+\end{tabular}
+
+\begin{tabular}{l}
+\bf{PTAB}\\
+\hline \\
+Trial Number\\
+Prosecution Status\\
+Petitioner Party\\
+Patent Owner Name\\
+Inventor Name\\
+Filing Date\\
+Accorded Filing Date\\
+Institution Decision Date\\
+Last Modified Date\\ 
+Claims Cancelled\\
+Claims Confirmed\\
+Number of Claims Cancelled\\
+Number of Claims Confirmed\\
+Percentage of Claims Cancelled\\ %= (Number Cancelled / (Number Cancelled + Number Confirmed)) * 100
+\end{tabular}
+
+\begin{tabular}{l}
+\bf{Oral Argument}\\ 
+\hline \\
+Time in mins. of Appellant's Opening Argument\\
+Time in mins. of Appellee's Argument\\
+Time in mins. of Appellant's Rebuttal Argument\\
+Questions asked of Appellant in Opening Argument \\%(by each judge)
+Questions asked of Appellee \\%(by each judge)
+Questions asked of Appellant in Rebuttal Argument \\%(by each judge)
+Questions/min. of Appellant in Opening Argument \\%(by each judge)
+Questions/min. of Appellee \\%(by each judge)
+Questions/min. of Appellant in Rebuttal Argument \\%(by each judge)
+Total Questions of Appellant\\
+Total Questions of Appellee\\
+Appellant Counsel Word Count\\
+Appellant Counsel Words/Min. \\%(derived metric = (12/(1+3))
+Appellee Counsel Word Count\\
+Appellee Counsel Words/Min. \\%(derived metric = 14/2)
+Presiding Judge Word Count\\
+Judge.2 \\%(middle seniority) Word Count
+Judge.3 \\%(junior judge) Word Count
+Relative Heat Index \\%(derived metric = \\% (10/(1+3)/(11/2))
+Relative Nervousness Index \\%(derived metric = 13/15).
+
+Appellant Word Frequency Vector\\
+Appellant Number of judge interruptions\\
+Appellee Word Frequency Vector\\
+Appellee Number of judge interruptions\\
+Number of questions asked by judge\\
+Judge Voice Amplitude\\
+Judge Voice Tone\\
+Judge Voice Decibel\\
+\end{tabular}
+
+\end{multicols}
+
+\pagebreak
+
+\section{Prediction Model}
+Machine learning algorithms and prediction models descriptions.
+
+\subsection{Candidates}
+Binary Classification Algorithm candidates.
+
+\begin{enumerate}
+\item SVM Pegasos
+\item SVM Kernel Method
+\item Boosting Method (AdaBoost)
+\item Decision Tree
+\item Random Forest
+\end{enumerate}
+
+\subsection{Comparisons}
+Algorithms results.\\
+Relevancy:\\
+Efficiency:\\
+
+\subsection{Performance Evaluations}
+Cross Validation.\\
+Accuracy Comparisons.\\
+ROC AUC analysis.\\
+
+\pagebreak
+
+\section{Citations}
+Citations.
+
+\subsection{Sources}
+\begin{enumerate}
+
+\item US Court of Appeals for the Federal Circuit\\ 
+\url{<http://www.cafc.uscourts.gov/>}
+
+\item Case Opinions (PDF files)\\
+\url{<http://www.cafc.uscourts.gov/opinions-orders>}
+
+\item Case Oral Arguments (MP3 files)\\
+\url{<http://www.cafc.uscourts.gov/oral-argument-recordings>}
+
+\item Case Oral Arguments (enhanced MP3 files)\\
+\url{<https://www.courtlistener.com/audio/>}
+
+\item Judge Biographical Information\\
+Web: \url{<http://www.fjc.gov/history/home.nsf/page/judges.html>}\\
+Exportable: \url{<http://www.fjc.gov/history/export/jb.txt>}
+
+\item American Bar Association\\
+\url{<http://www.americanbar.org/groups/committees/federal_judiciary/ratings.html>}
+
+
+\item Attorney Biographical \& Rating Information\\
+\url{<http://www.martindale.com/Find-Lawyers-and-Law-Firms.aspx>}
+
+\end{enumerate}
+
+
+\section{Footnotes}
+Footnotes.
+
+\pagebreak
+
+\subsubsection*{Acknowledgments}
+
+Acknowledgements.
+
+\subsubsection*{References}
+
+References.
+
+
+
+\end{document}

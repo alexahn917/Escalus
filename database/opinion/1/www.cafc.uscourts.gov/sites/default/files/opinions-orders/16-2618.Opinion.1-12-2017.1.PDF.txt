@@ -1,0 +1,189 @@
+NOTE:  This disposition is nonprecedential. 
+
+United States Court of Appeals 
+
+ 
+
+for the Federal Circuit 
+
+______________________ 
+
+ANTHONY JOHNSON, 
+
+Plaintiff-Appellant 
+
+Appeal  from  the  United  States  Court  of  Federal 
+Claims in No. 1:15-cv-01509-VJW, Judge Victor J. Wolski. 
+
+ 
+ANTHONY JOHNSON, Philadelphia, PA, pro se.  
+ 
+JEFFREY D. KLINGMAN, Commercial Litigation Branch, 
+Civil  Division,  United  States  Department  of  Justice, 
+Washington, DC, for defendant-appellee. Also represented 
+by  BENJAMIN  C.  MIZER,  ROBERT  E.  KIRSCHMAN,  JR., 
+DOUGLAS K. MICKLE.  
+
+______________________ 
+
+Before PROST, Chief Judge, NEWMAN, and DYK, Circuit 
+
+Judges. 
+
+UNITED STATES, 
+Defendant-Appellee 
+
+______________________ 
+
+2016-2618 
+
+______________________ 
+
+______________________ 
+
+Decided: January 17, 2017 
+______________________ 
+
+ 
+
+ 
+v. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+ 
+
+  JOHNSON v. US 
+
+PER CURIAM. 
+ 
+Anthony Johnson appeals the judgment of the United 
+States Court of Federal Claims dismissing his complaint 
+for  lack  of  subject  matter  jurisdiction.    Johnson  also 
+appeals the Court of Federal Claims’ denial of his motion 
+to  amend  his  complaint  as  futile  because  the  additional 
+asserted  claim  was  also  beyond  the  court’s  jurisdiction.  
+We affirm. 
+
+BACKGROUND 
+
+ 
+Between January and October of 2015, Johnson filed 
+three civil suits in the United States District Court for the 
+Eastern District of Pennsylvania.  In these cases, Johnson 
+alleged  that  various  state  and  federal  judges  had  con-
+spired  to  rule  against  him  in  the  past  due  to  his  race.  
+Each  of  these  cases  was  dismissed  by  the  district  court 
+judge  for  failure  to  state  a  claim.    In  response  to  these 
+dismissals,  on  December  14,  2015,  Johnson  filed  a  com-
+plaint  in  the  Court  of  Federal  Claims,  pursuant  to  the 
+Federal  Tort  Claims  Act  (“FTCA”),  28  U.S.C.  § 1346(b), 
+alleging  that these  dismissals  constituted  a  tort  because 
+they exhibited a systematic pattern of summarily dismiss-
+ing  civil  rights  cases  filed  by  African  Americans.    The 
+complaint  names  U.S.  District  Court  Judges  Alejandro, 
+O’Neill,  and  Rufe,  U.S.  Court  of  Appeals  for  the  Third 
+Circuit Clerk of Court Waldron, and the United States, as 
+defendants. 
+ 
+In  the  complaint,  Johnson  alleged  two  causes  of 
+action.    First,  Johnson  alleged  that  the  defendants  en-
+gaged  in  a  tort  by  “manipulat[ing]  .  .  .  procedural  due 
+processes . . . governing the summary dismissal protocols 
+[] 
+the 
+gu[a]ranteed  right  to  a  jury  trial  of  African  Americans 
+suing white federal officers of the Court.”  JA 8.  Second, 
+Johnson alleged that the defendants engaged in a tort by 
+“secretly  misusing”  taxpayer  monies  “for  the  purpose  of 
+
+the  unlawful  purpose  of  eliminating 
+
+[f]or 
+
+JOHNSON v. US 
+
+3 
+
+sabotaging the right to a jury trial.”  JA 9.  According to 
+Johnson, this misuse also amounted to a breach of fiduci-
+ary  duty  by  the  United  States  as  a  trustee  of  taxpayer 
+funds. 
+  On February 26, 2016, Johnson moved to amend his 
+complaint by supplementing, as an additional allegation, 
+the  fact  that  Judge  O’Neill  issued  an  order  requiring 
+Johnson to show cause on why an injunction should not be 
+issued  to  prevent  him  from  filing  additional  lawsuits 
+raising  the  same  subjects  as  the  cases  that  had  already 
+been dismissed by the district court in 2015. 
+ 
+The  Court  of  Federal  Claims  dismissed  Johnson’s 
+complaint.  First, the court noted that “claims made under 
+the  Federal  Tort  Claims  Act  are  outside  of  our  court’s 
+subject-matter jurisdiction.”  JA 16.  Second, with respect 
+to  the  misuse  of  taxpayer  funds,  the  court  noted  that 
+Johnson  failed  to  specify  how  the  funds  were  misused.  
+Finally,  with  respect  to  Johnson’s  motion  to  amend  his 
+complaint, the court denied the motion as futile because 
+reviewing the actions of a federal district court is beyond 
+the jurisdiction of the Court of Federal Claims. 
+ 
+U.S.C. § 1295(a)(3). 
+
+Johnson  appeals.    We  have  jurisdiction  under  28 
+
+DISCUSSION 
+
+  We review de novo a decision by the Court of Federal 
+Claims  to  dismiss  for  lack  of  jurisdiction.    Radioshack 
+Corp.  v.  United  States,  566  F.3d  1358,  1360  (Fed.  Cir. 
+2009).  
+
+Even  apart  from  the  impropriety  of  bringing  a  tort 
+claim against the government for actions of federal judges 
+in  their  decision-making  capacities,  it  is  clear  that  the 
+Court  of  Federal  Claims  lacks  jurisdiction  over  claims 
+against the government under the FTCA.  See 28 U.S.C. 
+§ 1491(a)(1).    “The  plain  language  of  the  Tucker  Act 
+
+4 
+
+ 
+
+  JOHNSON v. US 
+
+[which  created  Court  of  Federal  Claims  jurisdiction] 
+excludes  from  the  Court  of  Federal  Claims  jurisdiction 
+claims sounding in tort.”  Rick’s Mushroom Serv., Inc. v. 
+United  States,  521  F.3d  1338,  1343  (Fed.  Cir.  2008).  
+Therefore,  the  Court  of  Federal  Claims  correctly  dis-
+missed Johnson’s tort claims for lack of jurisdiction. 
+  On  appeal,  Johnson  argues  that  the  United  States 
+breached  its  fiduciary  duty  by  misusing  taxpayer  funds.  
+Taxpayers lack standing to sue for alleged misuse of tax 
+funds.  Ariz. Christian Sch. Tuition Org. v. Winn, 563 U.S. 
+125, 134–36 (2011). 
+
+Finally,  with  respect  to  Johnson’s  motion  to  amend 
+his  complaint  to  supplement  allegations  concerning  a 
+district  court  injunction,  we  agree  that  “the  Court  of 
+Federal  Claims  does  not  have  jurisdiction  to  review  the 
+decisions of district courts.”  Joshua v. United States, 17 
+F.3d 378, 380 (Fed. Cir. 1994). 
+
+AFFIRMED 
+
+COSTS 
+
+  No costs. 
+
+

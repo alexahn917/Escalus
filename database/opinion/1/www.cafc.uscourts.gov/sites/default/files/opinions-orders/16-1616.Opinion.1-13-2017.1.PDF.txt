@@ -1,0 +1,429 @@
+NOTE:  This disposition is nonprecedential. 
+
+United States Court of Appeals 
+
+for the Federal Circuit 
+
+______________________ 
+
+TRADING TECHNOLOGIES INTERNATIONAL, 
+
+INC., 
+
+Plaintiff-Appellee 
+
+ 
+v. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CQG, INC., CQG, LLC, FKA CQGT, LLC, 
+
+Defendants-Appellants 
+______________________ 
+
+2016-1616 
+
+______________________ 
+
+Appeal from the United States District Court for the 
+Northern  District  of  Illinois  in  No.  1:05-cv-04811,  Judge 
+Sharon Johnson Coleman. 
+
+______________________ 
+
+Decided:  January 18, 2017 
+
+______________________ 
+
+ 
+ERIKA  ARNER,  Finnegan,  Henderson,  Farabow,  Gar-
+rett  &  Dunner,  LLP,  Reston,  VA,  argued  for  plaintiff-
+appellee.  Also  represented  by  CORY  C.  BELL,  Finnegan, 
+Henderson,  Farabow,  Garrett  &  Dunner,  LLP,  Boston, 
+MA;  LEIF  R.  SIGMOND,  JR.,  MICHAEL  DAVID  GANNON, 
+JENNIFER  KURCZ,  COLE  BRADLEY  RICHTER,  McDonnell, 
+Boehnen, Hulbert & Berghoff, LLP, Chicago, IL; STEVEN 
+BORSAND,  Trading  Technologies  International,  Inc., 
+Chicago, IL.  
+
+2 
+
+ 
+
+TRADING TECHS. INT’L, INC. v. CQG, INC. 
+
+ 
+JOHN C. O'QUINN, Kirkland & Ellis LLP, Washington, 
+DC,  argued  for  defendants-appellants.  Also  represented 
+by  KENNETH  R.  ADAMO,  EUGENE  GORYUNOV,  MEREDITH 
+ZINANNI,  Kirkland  &  Ellis  LLP,  Chicago,  IL;  JOHN  A. 
+COTIGUALA, ADAM GLENN KELLY, WILLIAM JOSHUA VOLLER 
+III, Loeb & Loeb LLP, Chicago, IL. 
+
+ 
+ANDREW BALUCH, Strain PLLC, Washington, DC, for 
+amici curiae Gregory Dolin, Richard A. Epstein, Christo-
+pher Frerking, Irina D. Manta, Adam Mossoff, Kristen J. 
+Osenga,  Michael  Risch,  Mark  F.  Schultz, Ted  M.  Sichel-
+man,  David  O.  Taylor.  Also  represented  by  STEPHEN  G. 
+NAGY, Strain PLLC, Washington, DC. 
+
+______________________ 
+
+ 
+
+Before NEWMAN, O’MALLEY, and WALLACH, Circuit 
+
+Judges. 
+
+NEWMAN, Circuit Judge. 
+
+The CQG companies appeal the decision of the United 
+States District Court for the Northern District of Illinois, 
+holding  that  the  asserted  claims  of  U.S.  Patents  No. 
+6,772,132 (“the ’132 patent”) and No. 6,766,304 (“the ’304 
+patent”)  recite  patent-eligible  subject  matter  in  terms  of 
+35  U.S.C.  § 101.    This  appeal  relates  only  to  eligibility 
+under Section 101.  We affirm the district court’s decision. 
+
+DISCUSSION 
+
+Patent  owner  Trading  Technologies  International, 
+Inc.  (“TTI”)  charged  CQG  with  infringement  of  the  ’132 
+patent and the ’304 patent.  CGQ moved for judgment as 
+a matter of law, asserting that the claims of these patents 
+are  directed  to  patent-ineligible  subject  matter.    The 
+district  court  denied  CGQ’s  motion,  holding  that  the 
+claims are not directed to an abstract idea and also that 
+they  recite  an  inventive  concept,  such  that  the  subject 
+matter  is  patent-eligible  under  § 101.    Trading  Techs. 
+
+TRADING TECHS. INT’L, INC. v. CQG, INC. 
+
+3 
+
+Int’l, Inc. v. CQG, Inc., No. 05-cv-4811, 2015 WL 774655 
+(N.D.  Ill.  Feb.  24,  2015)  (“Dist.  Ct.  op.”).    CGQ  appeals 
+this holding. 
+
+The ’132 and ’304 patents describe and claim a meth-
+od and system for the electronic trading of stocks, bonds, 
+futures,  options  and  similar  products.    The  patents  ex-
+plain problems that arise when a trader attempts to enter 
+an  order  at  a  particular  price,  but  misses  the  price  be-
+cause the market moved before the order was entered and 
+executed.    It  also  sometimes  occurred  that  trades  were 
+executed  at  different  prices  than  intended,  due  to  rapid 
+market  movement.    This  is  the  problem  to  which  these 
+patents are directed. 
+
+The patents are for “[a] method and system for reduc-
+ing  the  time  it  takes  for  a  trader  to  place  a  trade  when 
+electronically trading on an exchange, thus increasing the 
+likelihood that the trader will have orders filled at desira-
+ble  prices  and  quantities.”    ’132  patent,  Abstract;  ’304 
+patent, Abstract.  The patents describe a trading system 
+in which a graphical user interface “display[s] the market 
+depth  of  a  commodity  traded  in  a  market,[1]  including  a 
+dynamic display for a plurality of bids and for a plurality 
+of  asks  in  the  market  for  the  commodity  and  a  static 
+display of prices corresponding to the plurality of bids and 
+asks.”  ’132 patent col. 3, ll. 11–16; ’304 patent col. 3, ll. 
+15–20.  In the patented system bid and asked prices are 
+displayed  dynamically  along  the  static  display,  and  the 
+system pairs orders with the static display of prices and 
+prevents order entry at a changed price. 
+
+Both  the  ’132  and  the  ’304  patents  have  the  same 
+specification, and the district court treated claim 1 in each 
+
+                                            
+
+1 
+
+“A  commodity’s  market  depth  is  the  current  bid 
+and ask prices and quantities in the market.”  ’132 patent 
+col. 3, ll. 69–61; ’304 patent col. 3, ll. 63–65. 
+
+4 
+
+ 
+
+TRADING TECHS. INT’L, INC. v. CQG, INC. 
+
+patent  as  representative,  as  agreed  by  the  parties.    We 
+illustrate  the  analysis  of  §  101  with  respect  to  method 
+Claim 1 of the ’304 patent: 
+
+1. A method for displaying market information re-
+lating  to  and  facilitating  trading  of  a  commodity 
+being traded in an electronic exchange having an 
+inside market with a highest bid price and a low-
+est  ask  price  on  a  graphical  user  interface,  the 
+method comprising; 
+dynamically displaying a first indicator in one of a 
+plurality of locations in a bid display region, each 
+location in the bid display region corresponding to 
+a price level along a common static price axis, the 
+first  indicator  representing  quantity  associated 
+with  at  least  one  order  to  buy  the  commodity  at 
+the  highest  bid  price  currently  available  in  the 
+market; 
+dynamically  displaying  a  second  indicator  in  one 
+of a plurality of locations in an ask display region, 
+each location in the ask display region correspond-
+ing to a price level along the common static price 
+axis,  the  second  indicator  representing  quantity 
+associated with at least one order to sell the com-
+modity at the lowest ask price currently available 
+in the market; 
+displaying the bid and ask display regions in rela-
+tion  to  fixed  price  levels  positioned  along  the 
+common  static  price  axis  such  that  when  the  in-
+side  market  changes,  the  price  levels  along  the 
+common static price axis do not move and at least 
+one of the first and second indicators moves in the 
+bid or ask display regions relative to the common 
+static price axis; 
+displaying an order entry region comprising a plu-
+rality of locations for receiving commands to send 
+
+TRADING TECHS. INT’L, INC. v. CQG, INC. 
+
+5 
+
+trade  orders,  each  location  corresponding  to  a 
+price level along the common static price axis; and 
+in response to a selection of a particular location 
+of  the  order  entry  region  by  a  single  action  of  a 
+user  input  device,  setting  a  plurality  of  parame-
+ters  for  a  trade  order  relating  to  the  commodity 
+and  sending  the  trade  order  to  the  electronic  ex-
+change. 
+
+’304 patent col. 12, l. 36–col. 13, l. 3.  The ’132 claims are 
+directed to similar subject matter covering a method and 
+system. 
+
+The  Court’s  opinion  in  Alice  Corporation  Pty.  Ltd.  v. 
+CLS Bank International, 134 S.Ct. 2347 (2014), provides 
+the framework for patent-eligibility of business methods.  
+The Court explained that a patent’s 
+
+claim  falls  outside  § 101  where  (1)  it is  “directed 
+to”  a  patent-ineligible  concept,  i.e.,  a  law  of  na-
+ture,  natural  phenomenon,  or  abstract  idea,  and 
+(2), if so, the particular elements of the claim, con-
+sidered “both individually and ‘as an ordered com-
+bination,’”  do  not  add  enough  to  “‘transform  the 
+nature of the claim’ into a patent-eligible applica-
+tion.” 
+
+Id.  at  2355  (citations  omitted).    Patent  eligibility  under 
+§ 101 is an issue of law, and receives de novo determina-
+tion on appeal.2 
+
+                                            
+2   The  parties  dispute  whether  the  district  court 
+erred  in  requiring  proof  of  ineligibility  under  §  101  by 
+clear and convincing evidence.  Because our review is de 
+novo,  and  because  under  either  standard  the  legal  re-
+quirements  for  patentability  are  satisfied,  we  need  not 
+address this dispute. 
+
+6 
+
+ 
+
+TRADING TECHS. INT’L, INC. v. CQG, INC. 
+
+The district court first applied Step 1 of this two-step 
+framework.  The court held that, rather than reciting “a 
+mathematical  algorithm,”  “a  fundamental  economic  or 
+longstanding  commercial  practice,”  or  “a  challenge  in 
+business,” the challenged patents “solve problems of prior 
+graphical  user  interface  devices . . . in  the  context  of 
+computerized  trading[]  relating  to  speed,  accuracy  and 
+usability.”    Dist.  Ct.  op.  at  *4  (citations  omitted).    The 
+court  found  that  these  patents  are  directed  to  improve-
+ments  in  existing  graphical  user  interface  devices  that 
+have  no  “pre-electronic  trading  analog,”  and  recite  more 
+than  “‘setting,  displaying,  and  selecting’  data  or  infor-
+mation  that  is  visible  on  the  [graphical  user  interface] 
+device.”  Id. 
+
+The  district  court  explained  that  the  challenged  pa-
+tents  do  not  simply  claim  displaying  information  on  a 
+graphical  user  interface.    The  claims  require  a  specific, 
+structured  graphical  user  interface  paired  with  a  pre-
+scribed functionality directly related to the graphical user 
+interface’s  structure  that  is  addressed  to  and  resolves  a 
+specifically identified problem in the prior state of the art.  
+The  district  court  concluded  that  the  patented  subject 
+matter meets the eligibility standards of Alice Step 1.  We 
+agree with this conclusion, for all of the reasons articulat-
+ed by the district court, including that the graphical user 
+interface system of these two patents is not an idea that 
+has  long  existed,  the  threshold  criterion  of  an  abstract 
+idea  and  ineligible  concept,  as  the  court  explained  in 
+Mayo  Collaborative  Services  v.  Prometheus  Laboratories, 
+Inc., 566 U.S. 66, 73 (2012) (the patent must “amount to 
+significantly  more  in  practice  than  a  patent  upon  the 
+[ineligible concept itself]”). 
+
+The district court alternatively continued the analysis 
+under  Alice  Step  2,  and  determined  that  the  challenged 
+claims recite an “inventive concept.”  The court observed 
+that Step 2 “requires something different than pre-AIA §§ 
+102 and 103.”  Dist. Ct. op. at 8.  The court identified the 
+
+TRADING TECHS. INT’L, INC. v. CQG, INC. 
+
+7 
+
+static  price  index  as  an  inventive  concept  that  allows 
+traders  to  more  efficiently  and  accurately  place  trades 
+using  this  electronic  trading  system.    The  court  distin-
+guished this system from the routine or conventional use 
+of  computers  or  the  Internet,  and  concluded  that  the 
+specific  structure  and  concordant  functionality  of  the 
+graphical user interface are removed from abstract ideas, 
+as compared to conventional computer implementations of 
+known procedures.  Thus the court held that the criteria 
+of Alice Step 2 were also met. 
+
+The  district  court’s  rulings  are  in  accord  with  prece-
+dent.    Precedent  has  recognized  that  specific  technologic 
+modifications to solve a problem or improve the function-
+ing  of  a  known  system  generally  produce  patent-eligible 
+subject  matter.    In  DDR  Holdings,  LLC  v.  Hotels.com, 
+L.P., 773 F.3d 1245 (Fed. Cir. 2014), the court upheld the 
+patent eligibility of claims “necessarily rooted in computer 
+technology” that “overcome a problem specifically arising 
+in the realm of computer networks.” Id. at 1257.  Similar-
+ly, “claimed process[es] us[ing] a combined order of specif-
+ic rules” that improved on existing technological processes 
+were  deemed  patent-eligible  in  McRO,  Inc.  v.  Bandai 
+Namco  Games  America  Inc.,  837  F.3d  1299,  1315  (Fed. 
+Cir.  2016).    Claims  that  were  “directed  to  a  specific  im-
+provement to the way computers operate, embodied in [a] 
+self-referential  table,”  were  deemed  eligible  in  Enfish, 
+LLC  v.  Microsoft  Corp.,  822  F.3d  1327,  1334  (Fed.  Cir. 
+2016). 
+
+Illustrating the operation of this principle to facts that 
+negated patent eligibility, claims “drawn to the idea itself” 
+of  “out-of-region  broadcasting  on  a  cellular  telephone,” 
+without 
+implementing  programmatic  structure,  were 
+deemed  ineligible  in  Affinity  Labs  of  Tex.  v.  DIRECTV, 
+LLC,  838  F.3d  1253,  1258  (Fed.  Cir.  2016).    Similarly, 
+claims directed to the “idea of generating a second menu 
+from a first menu and sending the second menu to anoth-
+er  location”  were  held  patent-ineligible  in  Apple,  Inc.  v. 
+
+8 
+
+ 
+
+TRADING TECHS. INT’L, INC. v. CQG, INC. 
+
+Ameranth,  Inc.,  842  F.3d  1229  (Fed.  Cir.  2016).    Claims 
+directed to the “process of gathering and analyzing infor-
+mation of a specified content, then displaying the results,” 
+without  “any  particular  assertedly  inventive  technology 
+for  performing  those  functions,”  were  held  ineligible  in 
+Electric Power Grp.,  LLC v. Alstom S.A., 830 F.3d 1350, 
+1354 (Fed. Cir. 2016).  As these cases illustrate, ineligible 
+claims  generally  lack  steps  or  limitations  specific  to 
+solution of a problem, or improvement in the functioning 
+of technology. 
+
+in 
+
+computer 
+
+technology 
+
+For  some  computer-implemented  methods,  software 
+may  be  essential  to  conduct  the  contemplated  improve-
+ments.  Enfish, 822 F.3d at 1339 (“Much of the advance-
+ment  made 
+consists  of 
+improvements to software that, by their very nature, may 
+not be defined by particular physical features but rather 
+by  logical  structures  and  processes.”).    Abstraction  is 
+avoided or overcome when a proposed new application or 
+computer-implemented function is not simply the general-
+ized  use  of  a  computer  as  a  tool  to  conduct  a  known  or 
+obvious  process,  but  instead  is  an  improvement  to  the 
+capability of the system as a whole.  Id. at 1336. 
+
+We  reiterate  the  Court’s  recognition  that  “at  some 
+level, all inventions . . . embody, use, reflect, rest upon, or 
+apply  laws  of  nature,  natural  phenomena,  or  abstract 
+ideas.”  Alice, 134 S. Ct. at 2354, quoting Mayo 566 U.S. 
+at 71.  This threshold level of eligibility is often usefully 
+explored  by  way  of  the  substantive  statutory  criteria  of 
+patentability,  for  an  invention  that  is  new,  useful  and 
+unobvious is more readily distinguished from the general-
+ized  knowledge  that  characterizes 
+ineligible  subject 
+matter.    This  analysis  is  facilitated  by  the  Court’s  guid-
+ance  whereby  the  claims  are  viewed  in  accordance  with 
+“the general rule that patent claims ‘must be considered 
+as a whole’.”  Alice, 134 S. Ct. at 2355 n.3, quoting Dia-
+mond v. Diehr, 450 U.S. 175, 188 (1981). 
+
+TRADING TECHS. INT’L, INC. v. CQG, INC. 
+
+9 
+
+As  demonstrated  in  recent  jurisprudence  directed  to 
+eligibility, and  as  illustrated  in  the  cases  cited  ante,  the 
+claim elements are considered in combination for evalua-
+tion under Alice Step 1, and then individually when Alice 
+Step 2 is reached.  See BASCOM Global Internet Services 
+v.  AT&T  Mobility  LLC,  827  F.3d  1341  (Fed.  Cir.  2016).  
+Applying an overview of this evolving jurisprudence, the 
+public interest in innovative advance is best served when 
+close questions of eligibility are considered along with the 
+understanding  flowing  from  review  of  the  patentability 
+criteria  of  novelty,  unobviousness,  and  enablement,  for 
+when  these  classical  criteria  are  evaluated,  the  issue  of 
+subject  matter  eligibility  is  placed  in  the  context  of  the 
+patent-based incentive to technologic progress. 
+
+CONCLUSION 
+
+It is  not  disputed  that  the  TTI  System improves  the 
+accuracy  of  trader  transactions,  utilizing  a  software-
+implemented programmatic met.  For Section 101 purpos-
+es, precedent does not consider the substantive criteria of 
+patentability.    For  Section  101  purposes,  the  claimed 
+subject  matter  is  “directed  to  a  specific  improvement  to 
+the way computers operate,” id., for the claimed graphical 
+user interface method imparts a specific functionality to a 
+trading system “directed to a specific implementation of a 
+solution to a problem in the software arts.”  Id. at 1339. 
+
+The district court’s analysis and conclusions conform 
+to  precedent.    The  decision  that  the  subject  matter 
+claimed in the ’132 and ’304 patents is patent-eligible in 
+terms  of  Section  101  is  affirmed.    No  other  statutory 
+criteria of patentability are before us on this appeal, and 
+we state no opinion thereon. 
+
+AFFIRMED 
+
+
