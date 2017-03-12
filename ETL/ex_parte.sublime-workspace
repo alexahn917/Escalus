@@ -4,6 +4,46 @@
 		"selected_items":
 		[
 			[
+				"docu",
+				"document_blocks"
+			],
+			[
+				"sli",
+				"split_by_sentence"
+			],
+			[
+				"spl",
+				"split_by_sentence"
+			],
+			[
+				"count",
+				"count_block"
+			],
+			[
+				"su",
+				"sub_block_size"
+			],
+			[
+				"updat",
+				"updated_block"
+			],
+			[
+				"number",
+				"number_of_neighbors"
+			],
+			[
+				"hs",
+				"has_phone_number"
+			],
+			[
+				"test",
+				"test_row"
+			],
+			[
+				"sp",
+				"split_by_sentence"
+			],
+			[
 				"batch",
 				"batch_ys"
 			],
@@ -48,10 +88,10 @@
 	"buffers":
 	[
 		{
-			"file": "feature_parser.py",
+			"file": "parse_opinion.py",
 			"settings":
 			{
-				"buffer_size": 3171,
+				"buffer_size": 1992,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -87,11 +127,32 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/alex/Documents/GitHub/Escalus/ETL"
+	],
 	"file_history":
 	[
-		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/classes/marks",
-		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/classes/names",
+		"/Users/alex/Google Drive/JHU/2017 Spring/ML Data to Models/Homeworks/1/hw1/get_model_posterior.py",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Parallel Programming/Homework/1/test.c",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Parallel Programming/Homework/1/nodeadlock.c",
+		"/Users/alex/Documents/GitHub/Escalus/ETL/parse_opinion.py",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Parallel Programming/Homework/1/gameoflife.c",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/Submission/hw1a/classify.py",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/classes/unlikely_proper_nouns",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/classes/extra",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/classes/starting_words",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/segment/standards",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/classes/abbrevs",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/Classifiers/classify.py",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/Classifiers/Segment_classifier.py",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/Classifiers/EOS_classifier.py",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/sent.data.train",
 		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/classes/strings_parse.py",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/classes/Segment_classifier.py",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/classify.py",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/classes/names",
+		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/classes/marks",
 		"/Users/alex/Google Drive/JHU/2017 Spring/Information Retrieval and Web Agents/Homework/HW1/classes/names_parsed",
 		"/Users/alex/Google Drive/DataStructures/Homework Grading/HW2/Sample_solutions/FlexibleArray.adt",
 		"/Users/alex/Google Drive/DataStructures/Homework Grading/HW2/Sample_solutions/SparseArray.java",
@@ -140,7 +201,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -154,6 +215,34 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"string",
+			"+)?(\\",
+			"\t",
+			"block",
+			"updated_block",
+			"int j",
+			"malloc",
+			"DIM*row_size",
+			"DIM * row_size",
+			"  \n",
+			"send_down",
+			"MPI_CHAR",
+			"-1",
+			"item\t",
+			"item ",
+			"address",
+			"quoted",
+			"item",
+			"split",
+			"features",
+			"item_start",
+			"sentence",
+			"\t",
+			"classes",
+			"Y_test",
+			"Y_train",
+			"as ",
+			"as",
 			"&",
 			"          ",
 			"DICTIONARY_CLASSES",
@@ -193,28 +282,29 @@
 			[
 				{
 					"buffer": 0,
-					"file": "feature_parser.py",
+					"file": "parse_opinion.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3171,
+						"buffer_size": 1992,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3038,
-								3038
+								1294,
+								1294
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 908.0,
+						"translation.y": 297.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -225,7 +315,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -259,10 +349,10 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "Kodaira.sublime-project",
+	"project": "ex_parte.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -282,7 +372,11 @@
 		[
 			[
 				"",
-				"~/Google Drive/JHU/2017 Spring/Parallel Programming/Homework/parallel_programming.sublime-project"
+				"~/Google Drive/JHU/2017 Spring/ML Data to Models/Homeworks/data_to_models.sublime-project"
+			],
+			[
+				"basebal",
+				"~/Documents/GitHub/Baseball_Analytics_ML/PitchPrediction/pitch_prediction.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -304,7 +398,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 242.0,
+	"side_bar_width": 263.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

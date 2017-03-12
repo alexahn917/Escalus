@@ -1,0 +1,46 @@
+NOTE: This disposition is nonprecedential.
+United States Court of Appeals for the Federal Circuit
+______________________ APPLE INC., a California Corporation,
+Plaintiff-Appellee v.
+SAMSUNG ELECTRONICS CO., LTD., a Korean corporation,
+SAMSUNG ELECTRONICS AMERICA, INC., a New York corporation,
+SAMSUNG TELECOMMUNICATIONS AMERICA, LLC, a Delaware limited liability company, Defendants-Appellants ______________________ 2014-1335, 2015-1029 ______________________
+Appeals from the United States District Court for the Northern District of California in No. 5:11-cv-01846-LHK, Judge Lucy H. Koh.
+______________________ Decided: February 7, 2017
+______________________ WILLIAM F. LEE, Wilmer Cutler Pickering Hale and Dorr LLP, Boston, MA, for plaintiff-appellee. Also represented by ANDREW J. DANFORD, MARK CHRISTOPHER FLEMING, ERIC FLETCHER, LAUREN B. FLETCHER, SARAH R. FRAZIER, KEVIN SCOTT PRUSSIA; JAMES QUARLES, III,
+
+2 APPLE INC. v. SAMSUNG ELECTRONICS CO., LTD.
+THOMAS GREGORY SPRANKLING, SETH P. WAXMAN, Washington, DC; MARK D. SELWYN, Palo Alto, CA; RACHEL KREVANS, RUTH N. BORENSTEIN, NATHANIEL BRYAN SABRI, CHRISTOPHER ROBINSON, Morrison & Foerster LLP, San Francisco, CA.
+KATHLEEN M. SULLIVAN, Quinn Emanuel Urquhart & Sullivan, LLP, New York, NY, for defendants-appellants. Also represented by WILLIAM ADAMS; ROBERT JASON BECHER, SUSAN RACHEL ESTRICH, MICHAEL THOMAS ZELLER, B. DYLAN PROCTOR, Los Angeles, CA; VICTORIA FISHMAN MAROULIS, Redwood Shores, CA; KEVIN ALEXANDER SMITH, San Francisco, CA
+______________________ Before PROST, Chief Judge, O'MALLEY, and CHEN, Circuit
+Judges. PER CURIAM.
+This case returns to us on remand from the Supreme Court of the United States. Samsung Elecs. Co. v. Apple Inc., 137 S. Ct. 429 (2016). Samsung Electronics Co., Ltd., Samsung Electronics America, Inc., and Samsung Telecommunications America, LLC (collectively, "Samsung") sought review of our prior decision in Apple Inc. v. Samsung Electronics Co., 786 F.3d 983 (Fed. Cir. 2015), arguing that we erred in our interpretation of design patent damages pursuant to 35 U.S.C. § 289. The Supreme Court granted Samsung's petition for a writ of certiorari, reversed our prior judgment, and remanded the case for further proceedings.
+On remand, we recalled our mandate solely with respect to design patent damages1 and reinstated the case.
+1 Specifically, we recalled the mandate only to the extent it related to the measure of damages awarded in
+
+APPLE INC. v. SAMSUNG ELECTRONICS CO., LTD.
+
+3
+
+Both parties filed statements urging us to take different actions. While Apple requests continued panel review, Samsung requests that we remand to the district court for a new trial on damages. For the reasons explained below, we adopt neither suggested course of action. Instead, we remand this case to the district court for further proceedings, which may or may not include a new damages trial.
+Section 289 provides, in relevant part, that whoever manufactures or sells "any article of manufacture to which [a patented] design or colorable imitation has been applied shall be liable to the owner to the extent of his total profit." 35 U.S.C. § 289. The Supreme Court clarified that a damages award under § 289 involves two steps: (1) "identify the `article of manufacture' to which the infringed design has been applied;" and (2) "calculate the infringer's total profit made on that article of manufacture." Samsung, 137 S. Ct. at 434. The Court then explained that the only question before it was narrow: "whether, in the case of a multicomponent product, the relevant `article of manufacture' must always be the end product sold to the consumer or whether it can also be a component of that product." Id.2
+Looking to the statutory text, the Supreme Court concluded that the term "article of manufacture," as it is used in § 289, "encompasses both a product sold to a consumer and a component of that product." Id. The Court declined, however, to "set out a test for identifying the
+
+connection with the district court's partial final judgment on Apple's design patent claims.
+2 Samsung also argued that § 289 "contains a causation requirement, which limits a § 289 damages award to the total profit the infringer made because of the infringement." Samsung, 137 S. Ct. at 434 n.2. We rejected that argument, and Samsung abandoned this theory during oral argument to the Supreme Court. Id.
+
+4 APPLE INC. v. SAMSUNG ELECTRONICS CO., LTD.
+relevant article of manufacture at the first step of the § 289 damages inquiry." Id. at 436. Instead, the Court remanded the case for this court to "address any remaining issues." Id.
+Apple argues that we can affirm the design patent damages award without additional briefing or argument because Samsung never asserted that the relevant article of manufacture was anything other than Samsung's entire phones. According to Apple, Samsung failed to proffer any evidence to the jury identifying any smartphone component--as opposed to the entire phone-- as the relevant article of manufacture to which the patented design was applied. As such, Apple maintains that the record permits only the conclusion that the relevant articles of manufacture must be Samsung's infringing phones.
+Samsung submits that we should remand to the district court for a new trial on design patent damages. According to Samsung, the district court's § 289 instruction was erroneous in light of the Supreme Court's decision. Samsung does not dispute that the trial court's recitation of the statutory language from § 289 was accurate; it argues that the court should have said something more to account for the fact that, in a multicomponent product, there might be more than one article of manufacture within the meaning of § 289. Samsung also argues that remand is appropriate because it will enable the district court to resolve any remaining issues.
+In short, the parties dispute what jury instructions the current trial record supports. Because the district court is better positioned to parse the record to evaluate the parties' competing arguments, we remand for the district court to consider these issues in the first instance.
+On remand, the trial court should consider the parties' arguments in light of the trial record and determine what additional proceedings, if any, are needed. If the
+
+APPLE INC. v. SAMSUNG ELECTRONICS CO., LTD.
+
+5
+
+court determines that a new damages trial is necessary, it will have the opportunity to set forth a test for identifying the relevant article of manufacture for purposes of § 289, and to apply that test to this case. Accordingly, we remand this matter to the district court for further proceedings.
+REMANDED
+
+
